@@ -1,7 +1,6 @@
 from __future__ import annotations
 
 import json
-import os
 from pathlib import Path
 from typing import Any
 
@@ -23,9 +22,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+
 @app.get("/health")
 def health() -> dict[str, str]:
     return {"status": "ok"}
+
 
 @app.get("/files")
 def list_json_files() -> list[str]:
@@ -41,7 +42,37 @@ def list_json_files() -> list[str]:
     result.sort(key=lambda x: x.lower())
     return result
 
-@app.get("/files/{file_name}")
+
+@app.get("/files/{name}")
 def read_file(name: str) -> Any:
 
     path = (FILES_DIR / F"{name}.json").resolve()
+
+    if not str(path).startswith(str(FILES_DIR.resolve())):
+        raise HTTPException(status_code=400, detail="Invalid file name")
+
+    if not path.exists() or not path.is_file():
+        raise HTTPException(status_code=404, detail="File not found")
+
+    try:
+        with path.open("r", encoding="utf-8") as f:
+            return json.load(f)
+
+    except json.JSONDecodeError:
+        raise HTTPException(status_code=500, detail="Error reading JSON file")
+    except OSError:
+        raise HTTPException(status_code=500, detail="Error reading file")
+
+
+@app.get("/files/{name}/raw")
+def read_json_file_raw(name: str) -> FileResponse:
+
+    path = (FILES_DIR / F"{name}.json").resolve()
+
+    if not str(path).startswith(str(FILES_DIR.resolve())):
+        raise HTTPException(status_code=400, detail="Invalid file name")
+
+    if not path.exists() or not path.is_file():
+        raise HTTPException(status_code=404, detail="File not found")
+
+    return FileResponse(path, media_type="application/json" , filename=path.name)
