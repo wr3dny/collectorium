@@ -1,58 +1,10 @@
 [
     {
         "id": 1,
-        "title": "The Hobbit",
-        "translatedTitle": "Hobbit",
-        "author": "J.R.R. Tolkien",
-        "language": "polish",
-        "series": null,
-        "numberInSeries": null,
-        "subSeries": null,
-        "numberInSubSeries": null,
-        "format": "paperback"
-    },
-    {
-        "id": 2,
-        "author": "Nick Kyme",
-        "title": "Old Earth",
-        "series": "Warhammer 40k",
-        "numberInSeries": null,
-        "subSeries": "Horus Heresy",
-        "numberInSubSeries": null,
-        "format": "Paperback",
-        "language": "English"
-    },
-    {
-        "id": 3,
-        "author": "Varius",
-        "title": "Legacies of betrayal",
-        "series": "Warhammer 40k",
-        "numberInSeries": null,
-        "subSeries": "Horus Heresy",
-        "numberInSubSeries": null,
-        "format": "Paperback",
-        "language": "English"
-    },
-    {
-        "id": 4,
-        "author": "Dan Abnett",
-        "title": "Ravenor",
-        "series": "Warhammer 40k",
-        "numberInSeries": null,
-        "subSeries": 1,
-        "numberInSubSeries": 1,
-        "format": "paperback",
-        "language": "english"
-    },
-    {
-        "id": 5,
-        "author": "Agatha Christie",
-        "title": "The Clocks",
-        "series": null,
-        "numberInSeries": null,
-        "subSeries": null,
-        "numberInSubSeries": null,
-        "format": "paperback",
-        "language": "english"
+        "year": 1957,
+        "number": 1,
+        "title": "Flota desantowa",
+        "scale": "1:50",
+        "owned": false
     }
 ]

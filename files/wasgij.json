@@ -1,14 +1,12 @@
 [
     {
         "id": 1,
-        "title": "The Hobbit",
-        "translatedTitle": "Hobbit",
-        "author": "J.R.R. Tolkien",
-        "size": 1000,
-        "missing": null,
-        "numberInSeries": null,
-        "subSeries": null,
-        "numberInSubSeries": null,
-        "format": "paperback"
+        "series": "original",
+        "publisher": "Jumbo",
+        "numberInSeries": 10,
+        "title": "Antique Hunt",
+        "pieces": 1000,
+        "piecesInBox": 1000,
+        "owned": true
     }
 ]
