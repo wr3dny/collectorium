@@ -1,16 +1,16 @@
 [
     {
         "id": 1,
+        "year": 2026,
+        "number": 1,
+        "title": "Lego",
+        "scale": "1:50"
+    },
+    {
+        "id": 2,
         "year": 1957,
         "number": 1,
         "title": "Lego",
         "scale": "1:50"
-        },
-        {
-        "id": 1,
-        "year": 1957,
-        "number": 1,
-        "title": "Lego",
-        "scale": "1:50"
-        }
+    }
 ]

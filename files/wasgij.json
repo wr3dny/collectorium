@@ -1,12 +1,51 @@
 [
     {
         "id": 1,
-        "series": "original",
-        "publisher": "Jumbo",
-        "numberInSeries": 10,
-        "title": "Antique Hunt",
+        "series": "Original",
+        "publisher": "Trefl",
+        "numberInSeries": 1,
+        "title": "Sunday Driver's",
         "pieces": 1000,
         "piecesInBox": 1000,
         "owned": true
-    }
+    },
+    {
+        "id": 2,
+        "series": "Original",
+        "publisher": "Jumbo",
+        "numberInSeries": 2,
+        "title": "Happy Holidays",
+        "pieces": 1000,
+        "piecesInBox": 1000,
+        "owned": true
+    },
+    {
+        "id": 3,
+        "series": "Destiny",
+        "publisher": "Jumbo",
+        "numberInSeries": 2,
+        "title": "The Proposal",
+        "pieces": 1000,
+        "piecesInBox": 1000,
+        "owned": true
+    },    {
+        "id": 4,
+        "series": "Christmas",
+        "publisher": "Jumbo",
+        "numberInSeries": 4,
+        "title": "White Christmas",
+        "pieces": 1000,
+        "piecesInBox": 1000,
+        "owned": true
+    },
+    {
+        "id": 5,
+        "series": "Mystery",
+        "publisher": "Jumbo",
+        "numberInSeries": 1,
+        "title": "The Wasgij Express",
+        "pieces": 1000,
+        "piecesInBox": 1000,
+        "owned": false
+    },
 ]
