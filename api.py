@@ -46,6 +46,7 @@ def list_json_files() -> list[str]:
 @app.get("/files/{name}")
 def read_file(name: str) -> Any:
 
+
     path = (FILES_DIR / F"{name}.json").resolve()
 
     if not str(path).startswith(str(FILES_DIR.resolve())):
@@ -63,16 +64,3 @@ def read_file(name: str) -> Any:
     except OSError:
         raise HTTPException(status_code=500, detail="Error reading file")
 
-
-@app.get("/files/{name}/raw")
-def read_json_file_raw(name: str) -> FileResponse:
-
-    path = (FILES_DIR / F"{name}.json").resolve()
-
-    if not str(path).startswith(str(FILES_DIR.resolve())):
-        raise HTTPException(status_code=400, detail="Invalid file name")
-
-    if not path.exists() or not path.is_file():
-        raise HTTPException(status_code=404, detail="File not found")
-
-    return FileResponse(path, media_type="application/json" , filename=path.name)
