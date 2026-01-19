@@ -25,7 +25,7 @@ app.add_middleware(
 
 @app.get("/health")
 def health() -> dict[str, str]:
-    return {"status": "ok-dokie"}
+    return {"status": "Awaken"}
 
 
 @app.get("/files")
