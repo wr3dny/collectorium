@@ -9,6 +9,10 @@ def file_path(filename: str) -> str:
         return "lego.json"
     elif filename == "paperModels.json":
         return "paperModels.json"
+    elif filename == "coins.json":
+        return "coins.json"
+    elif filename == "wasgij.json":
+        return "wasgij.json"
     else:
         print("Unknown file")
         return ""
@@ -38,8 +42,7 @@ def menu():
 
     while True:
         print("1. Chose file")
-        print("2. List file")
-        print("5. Exit")
+        print("2. Exit")
 
         action = input("Enter number : ")
 
@@ -48,7 +51,9 @@ def menu():
                 print("1. Books")
                 print("2. Lego")
                 print("3. Paper Models")
-                print("4. Return main menu")
+                print("4. Coins")
+                print("5. Wasgij")
+                print("6. Return main menu")
                 sub = input("Enter number : ").strip()
                 if sub == "1":
                     file = "books.json"
@@ -60,11 +65,17 @@ def menu():
                     file = "paperModels.json"
                     return file_path(file)
                 elif sub == "4":
+                    file = "paperModels.json"
+                    return file_path(file)
+                elif sub == "5":
+                    file = "paperModels.json"
+                    return file_path(file)
+                elif sub == "6":
                     break
                 else:
                     print("Invalid choice.")
 
-        elif action == "5":
+        elif action == "2":
             sys.exit(0)
         else:
             print("Invalid action")

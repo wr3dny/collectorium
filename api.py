@@ -46,7 +46,6 @@ def list_json_files() -> list[str]:
 @app.get("/files/{name}")
 def read_file(name: str) -> Any:
 
-
     path = (FILES_DIR / F"{name}.json").resolve()
 
     if not str(path).startswith(str(FILES_DIR.resolve())):
