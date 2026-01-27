@@ -51,9 +51,8 @@ def menu():
                 print("1. Books")
                 print("2. Lego")
                 print("3. Paper Models")
-                print("4. Coins")
-                print("5. Wasgij")
-                print("6. Return main menu")
+                print("4. Wasgij")
+                print("5. Return main menu")
                 sub = input("Enter number : ").strip()
                 if sub == "1":
                     file = "books.json"
@@ -68,9 +67,6 @@ def menu():
                     file = "paperModels.json"
                     return file_path(file)
                 elif sub == "5":
-                    file = "paperModels.json"
-                    return file_path(file)
-                elif sub == "6":
                     break
                 else:
                     print("Invalid choice.")

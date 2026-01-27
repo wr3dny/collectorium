@@ -1,16 +1,51 @@
 [
     {
         "id": 1,
-        "year": 2026,
-        "number": 1,
-        "title": "Lego",
-        "scale": "1:50"
+        "year": 2022,
+        "setNumber": 75327,
+        "name": "Luke Skywalker (Red Five) Helmet",
+        "series": "Star Wars"
     },
     {
         "id": 2,
-        "year": 1957,
-        "number": 1,
-        "title": "Lego",
-        "scale": "1:50"
+        "year": 2022,
+        "setNumber": 75343,
+        "name": "Dark Trooper Helmet",
+        "series": "Star Wars"
+    } ,
+    {
+        "id": 3,
+        "year": 2023,
+        "setNumber": 75349,
+        "name": "Captain Rex Helmet",
+        "series": "Star Wars"
+    },
+    {
+        "id": 4,
+        "year": 2023,
+        "setNumber": 75350,
+        "name": "Clone Commander Cody Helmet",
+        "series": "Star Wars"
+    },
+    {
+        "id": 5,
+        "year": 2025,
+        "setNumber": 75350,
+        "name": "Kylo Ren Helmet",
+        "series": "Star Wars"
+    },
+    {
+        "id": 6,
+        "year": 2025,
+        "setNumber": 75429,
+        "name": "AT-AT Driver Helmet",
+        "series": "Star Wars"
+    },
+    {
+        "id": 7,
+        "year": 2023,
+        "setNumber": 75429,
+        "name": "Princess Leia (Boushh) Helmet",
+        "series": "Star Wars"
     }
 ]

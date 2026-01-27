@@ -21,38 +21,5 @@
         "numberInSubSeries": null,
         "format": "Paperback",
         "language": "English"
-    },
-    {
-        "id": 3,
-        "author": "Varius",
-        "title": "Legacies of betrayal",
-        "series": "Warhammer 40k",
-        "numberInSeries": null,
-        "subSeries": "Horus Heresy",
-        "numberInSubSeries": null,
-        "format": "Paperback",
-        "language": "English"
-    },
-    {
-        "id": 4,
-        "author": "Dan Abnett",
-        "title": "Ravenor",
-        "series": "Warhammer 40k",
-        "numberInSeries": null,
-        "subSeries": 1,
-        "numberInSubSeries": 1,
-        "format": "paperback",
-        "language": "english"
-    },
-    {
-        "id": 5,
-        "author": "Agatha Christie",
-        "title": "The Clocks",
-        "series": null,
-        "numberInSeries": null,
-        "subSeries": null,
-        "numberInSubSeries": null,
-        "format": "paperback",
-        "language": "english"
     }
 ]
