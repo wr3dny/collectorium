@@ -1,21 +1,7 @@
 import os
 import sys
-
-
-def file_path(filename: str) -> str:
-    if filename == "books.json":
-        return "books.json"
-    elif filename == "lego.json":
-        return "lego.json"
-    elif filename == "paperModels.json":
-        return "paperModels.json"
-    elif filename == "coins.json":
-        return "coins.json"
-    elif filename == "wasgij.json":
-        return "wasgij.json"
-    else:
-        print("Unknown file")
-        return ""
+from numbers import Number
+from typing import List
 
 
 def list_files():
@@ -27,11 +13,39 @@ def list_files():
         print(f"The directory '{directory}' does not exist.")
         return
 
-    for filename in files:
-        if filename.lower().endswith('.json'):
-            name = os.path.splitext(filename)[0]
-            name = name[0].upper() + name[1:]
-            print(name)
+    json_files = [f for f in files if f.lower().endswith(".json")]
+
+    for i, filename in enumerate(json_files, start=1):
+        name = os.path.splitext(filename)[0]
+        name = name[0].upper() + name[1:] if name else name
+        print(f"{i}. {name}")
+
+
+def file_path(filename: Number) -> str:
+    if filename == 1:
+        return "books.json"
+    elif filename == 2:
+        return "lego.json"
+    elif filename == 3:
+        return "paperModels.json"
+    elif filename == 4:
+        return "wasgij.json"
+    else:
+        print("Unknown file")
+        return ""
+
+def load_file() -> List[Field]:
+    if not os.path.exists(FILE_PATH):
+        return []
+
+    with open(FILE_PATH, "r", encoding="utf-8") as f:
+        books: List[Field] = json.load(f)
+
+    for bk in books:
+        bk["id"] = _coerce_id(bk.get("id"))
+
+    books.sort(key=lambda b: (b.get("id") is None, b.get("id")))
+    return books
 
 
 def menu():
@@ -39,38 +53,14 @@ def menu():
     print("")
     list_files()
     print("----------------")
-
     while True:
-        print("1. Chose file")
+        print("1. Select file")
         print("2. Exit")
-
-        action = input("Enter number : ")
-
+        action = input("Select action: ")
         if action == "1":
             while True:
-                print("1. Books")
-                print("2. Lego")
-                print("3. Paper Models")
-                print("4. Wasgij")
-                print("5. Return main menu")
-                sub = input("Enter number : ").strip()
-                if sub == "1":
-                    file = "books.json"
-                    return file_path(file)
-                elif sub == "2":
-                    file = "lego.json"
-                    return file_path(file)
-                elif sub == "3":
-                    file = "paperModels.json"
-                    return file_path(file)
-                elif sub == "4":
-                    file = "paperModels.json"
-                    return file_path(file)
-                elif sub == "5":
-                    break
-                else:
-                    print("Invalid choice.")
-
+                file = int(input("Select file: "))
+                file_path(file)
         elif action == "2":
             sys.exit(0)
         else:
