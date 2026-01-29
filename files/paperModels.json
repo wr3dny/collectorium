@@ -6,5 +6,13 @@
         "title": "Flota desantowa",
         "scale": "1:50",
         "owned": false
+    },
+    {
+        "id": 2,
+        "year": 1957,
+        "number": 1,
+        "title": "Flota desantowa",
+        "scale": "1:50",
+        "owned": false
     }
 ]

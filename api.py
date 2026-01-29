@@ -25,7 +25,7 @@ app.add_middleware(
 
 @app.get("/health")
 def health() -> dict[str, str]:
-    return {"status": "ok-dokie"}
+    return {"status": "Awaken"}
 
 
 @app.get("/files")
@@ -45,7 +45,6 @@ def list_json_files() -> list[str]:
 
 @app.get("/files/{name}")
 def read_file(name: str) -> Any:
-
 
     path = (FILES_DIR / F"{name}.json").resolve()
 
