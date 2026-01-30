@@ -1,11 +1,11 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
-from typing import Dict , List , Union , Tuple
+from typing import Dict, List, FrozenSet
 
-Value = Union[str, int,  bool, None]
+Value = str | int | bool | None
 Field = Dict[str, Value]
-FieldsDef = List[Tuple[str, str]]
+FieldsDef = list[tuple[str, str]]
 
 BOOK_FIELDS: FieldsDef = [
     ("author", "Author"),
@@ -48,21 +48,47 @@ LEGO_FIELDS: FieldsDef = [
 
 @dataclass(frozen=True)
 class FileDef:
-    """
-    Registry entry for one JSON collection file.
-    Add a new file here and the menu + loading will work automatically.
-    """
-    key: str                 # internal identifier (stable)
-    filename: str            # file on disk (in files/ dir)
-    label: str               # menu display name
-    fields: FieldsDef        # which fields are relevant for this file
-    id_key: str = "id"       # which key should be coerced/sorted as an integer
+    key: str
+    filename: str
+    label: str
+    fields: FieldsDef
+    id_key: str = "id"
+
+    int_keys: FrozenSet[str] = frozenset()
+    bool_keys: FrozenSet[str] = frozenset()
 
 
 FILE_DEFS: List[FileDef] = [
-    FileDef(key="books",       filename="books.json",       label="Books",       fields=BOOK_FIELDS),
-    FileDef(key="lego",        filename="lego.json",        label="LEGO",        fields=LEGO_FIELDS),
-    FileDef(key="paperModels", filename="paperModels.json", label="Paper Models", fields=MM_FIELDS),
-    FileDef(key="wasgij",      filename="wasgij.json",      label="Wasgij",      fields=WASGIJ_FIELDS),
+    FileDef(
+        key="books",
+        filename="books.json",
+        label="Books",
+        fields=BOOK_FIELDS,
+        int_keys=frozenset({"numberInSeries", "numberInSubSeries"}),
+    ),
+    FileDef(
+        key="lego",
+        filename="lego.json",
+        label="LEGO",
+        fields=LEGO_FIELDS,
+        int_keys=frozenset({"year", "number"}),
+    ),
+    FileDef(
+        key="paperModels",
+        filename="paperModels.json",
+        label="Paper Models",
+        fields=MM_FIELDS,
+        int_keys=frozenset({"year", "number", "scale"}),
+        bool_keys=frozenset({"owned"}),
+    ),
+    FileDef(
+        key="wasgij",
+        filename="wasgij.json",
+        label="Wasgij",
+        fields=WASGIJ_FIELDS,
+        int_keys=frozenset({"numberInSeries", "pieces", "piecesInBox"}),
+        bool_keys=frozenset({"owned"}),
+    ),
 ]
+
 
