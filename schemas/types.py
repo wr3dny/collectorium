@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
-from typing import Dict, List, FrozenSet
+from typing import Dict, FrozenSet
 
 Value = str | int | bool | None
 Field = Dict[str, Value]
@@ -58,7 +58,7 @@ class FileDef:
     bool_keys: FrozenSet[str] = frozenset()
 
 
-FILE_DEFS: List[FileDef] = [
+FILE_DEFS: list[FileDef] = [
     FileDef(
         key="books",
         filename="books.json",
