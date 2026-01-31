@@ -1,25 +1,54 @@
 [
     {
         "id": 1,
-        "title": "The Hobbit",
-        "translatedTitle": "Hobbit",
-        "author": "J.R.R. Tolkien",
-        "language": "polish",
-        "series": null,
-        "numberInSeries": null,
+        "firstName": "Andrzej",
+        "lastName": "Pilipiuk",
+        "title": "Kuzynki",
+        "originalTitle": null,
+        "worldHero": "Kuzynki Kruszewskie",
+        "numberInSeries": 1,
         "subSeries": null,
         "numberInSubSeries": null,
-        "format": "paperback"
+        "format": "paperback",
+        "language": "polish"
     },
     {
         "id": 2,
-        "author": "Nick Kyme",
-        "title": "Old Earth",
-        "series": "Warhammer 40k",
-        "numberInSeries": null,
-        "subSeries": "Horus Heresy",
+        "firstName": "Andrzej",
+        "lastName": "Pilipiuk",
+        "title": "Księżniczka",
+        "originalTitle": null,
+        "worldHero": "Kuzynki Kruszewskie",
+        "numberInSeries": 2,
+        "subSeries": null,
         "numberInSubSeries": null,
-        "format": "Paperback",
-        "language": "English"
+        "format": "paperback",
+        "language": "polish"
+    },
+    {
+        "id": 3,
+        "firstName": "Andrzej",
+        "lastName": "Pilipiuk",
+        "title": "Dziedziczki",
+        "originalTitle": null,
+        "worldHero": "Kuzynki Kruszewskie",
+        "numberInSeries": 3,
+        "subSeries": null,
+        "numberInSubSeries": null,
+        "format": "paperback",
+        "language": "polish"
+    },
+    {
+        "id": 4,
+        "firstName": "Andrzej",
+        "lastName": "Pilipiuk",
+        "title": "Zaginiona",
+        "originalTitle": null,
+        "worldHero": "Kuzynki Kruszewskie",
+        "numberInSeries": 4,
+        "subSeries": null,
+        "numberInSubSeries": null,
+        "format": "paperback",
+        "language": "polish"
     }
 ]

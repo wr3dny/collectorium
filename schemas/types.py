@@ -8,13 +8,14 @@ Field = Dict[str, Value]
 FieldsDef = list[tuple[str, str]]
 
 BOOK_FIELDS: FieldsDef = [
-    ("author", "Author"),
+    ("firstName", "First Name"),
+    ("lastName", "Last Name"),
     ("title", "Title"),
     ("originalTitle", "Original Title"),
     ("worldHero", "World / Character"),
-    ("numberInSeries", "Number in Series"),
-    ("subSeries", "Sub-Series"),
-    ("numberInSubSeries", "Number in Sub-Series"),
+    ("numberInSeries", "Book in Series"),
+    ("subSeries", "Cycle"),
+    ("numberInSubSeries", "Book in Cycle"),
     ("format", "Format"),
     ("language", "Language"),
 ]
