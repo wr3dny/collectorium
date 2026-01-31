@@ -7,6 +7,7 @@ import sys
 from typing import Optional
 
 from schemas.types import FILE_DEFS, Field, FileDef
+from storage.json_storage import load_file, save_file
 
 from utils.parsing import (
     coerce_id,
@@ -29,39 +30,6 @@ def list_files() -> None:
     for i, fd in enumerate(FILE_DEFS, start=1):
         print(f"{i}. {fd.label}")
 
-
-def build_file_path(file_def: FileDef) -> str:
-    return os.path.join(FILES_DIR, file_def.filename)
-
-
-def load_file(file_def: FileDef) -> list[Field]:
-    path = build_file_path(file_def)
-    if not os.path.exists(path):
-        return []
-
-    try:
-        with open(path, "r", encoding="utf-8") as f:
-            data = json.load(f)
-    except json.JSONDecodeError:
-        print(f"Invalid JSON in: {path}")
-        return []
-    except OSError as e:
-        print(f"Error reading file {path}: {e}")
-        return []
-
-    if not isinstance(data, list):
-        print(f"Unexpected data format in: {path}")
-        return []
-
-    items: list[Field] = []
-    for raw in data:
-        if isinstance(raw, dict):
-            item: Field = dict(raw)
-            item[file_def.id_key] = coerce_id(item.get(file_def.id_key))
-            items.append(item)
-
-    items.sort(key=lambda b: (b.get(file_def.id_key) is None, b.get(file_def.id_key)))
-    return items
 
 
 def list_records(file_def: FileDef, records: list[Field]) -> None:
@@ -87,34 +55,35 @@ def next_id(file_def: FileDef, records: list[Field]) -> Optional[int]:
         if i not in existing_ids:
             return i
 
+    return None
+
+
+
+def _find_record_index_by_id(file_def: FileDef, records: list[Field], record_id: int) -> int | None:
+    for idx, r in enumerate(records):
+        if r.get(file_def.id_key) == record_id:
+            return idx
+    return None
+
 
 def add_record(file_def: FileDef) -> Field:
-    record = load_records(file_def)
-    new_id = next_id(file_def, record)
+    records = load_file(FILES_DIR, file_def)
+    new_id = next_id(file_def, records)
 
-    record: Field = {file_def.id_key}
+    new_record: Field = {file_def.id_key: new_id}
 
-    print(f"Adding new book with ID: {new_book_id}")
+    print(f"Adding new book with ID: {new_id}")
     print('Press Space or Enter to skip category, type "null" to leave field empty')
 
-    for key, label in BOOK_FIELDS:
-        raw = input(f"{label}: ").strip()
+    for key, label in file_def.fields:
+        raw = input(f"{label}: ")
+        new_record[key] = parse_value_for_key(file_def, key, raw)
 
-        if raw.lower() == "null" or raw == "":
-            value: BookValue = None
-        else:
-            if key in {"numberInSeries", "numberInSubSeries"}:
-                parsed = _parse_int_or_none(raw)
-                value = parsed
-            else:
-                value = raw
+    records.append(new_record)
+    save_file(FILES_DIR, file_def, records)
 
-        book[key] = value
-
-    books.append(book)
-    save_books(books)
-    print("Book added.")
-    return book
+    print("Record added.\n")
+    return new_record
 
 
 def update_record(file_def: FileDef, record: Field) -> None:
@@ -123,17 +92,9 @@ def update_record(file_def: FileDef, record: Field) -> None:
 def delete_record(file_def: FileDef, record_id: int) -> None:
     pass
 
-def save_record(file_def: FileDef, record: Field) -> None:
-
-
 """
 reuse
 """
-
-def save_books(books: list[Book]) -> None:
-    books_sorted = sorted(books, key=lambda b: (b.get("id") is None, b.get("id")))
-    with open(FILE_PATH, "w", encoding="utf-8") as f:
-        json.dump(books_sorted, f, indent=4, ensure_ascii=False)
 
 
 
