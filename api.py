@@ -3,11 +3,11 @@ from __future__ import annotations
 import json
 from pathlib import Path
 from typing import Any
+from schemas.types import FILE_DEFS
 
 
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import FileResponse
 
 BASE_DIR = Path(__file__).resolve().parent
 FILES_DIR = BASE_DIR / "files"
@@ -23,9 +23,38 @@ app.add_middleware(
 )
 
 
+def _serialize_file_def(fd):
+    return {
+        "key": fd.key,
+        "label": fd.label,
+        "id_key": fd.id_key,
+        "fields": fd.fields,
+        "intKeys": sorted(list(fd.int_keys)),
+        "boolKeys": sorted(list(fd.bool_keys)),
+    }
+
+
+def _getfile_def_or_404(key: str):
+    for fd in FILE_DEFS:
+        if fd.key == key:
+            return fd
+    raise HTTPException(status_code=404, detail="File definition not found")
+
+
 @app.get("/health")
 def health() -> dict[str, str]:
     return {"status": "Awaken"}
+
+
+@app.get("/meta/files")
+def list_file_meta() -> list[dict[str, Any]]:
+    return [_serialize_file_def(fd) for fd in FILE_DEFS]
+
+
+@app.get("/meta/files/{key}")
+def read_file_meta(key: str) -> dict[str, Any]:
+    fd = _getfile_def_or_404(key)
+    return _serialize_file_def(fd)
 
 
 @app.get("/files")
