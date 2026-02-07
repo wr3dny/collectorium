@@ -54,7 +54,6 @@ def list_records(file_def: FileDef, records: list[Field]) -> None:
         print("----------------")
 
 
-
 def next_id(file_def: FileDef, records: list[Field]) -> Optional[int]:
     existing_ids: set[int] = set()
 
@@ -158,6 +157,7 @@ def _file_menu(file_def: FileDef) -> None:
             print("3. Update record")
             print("4. Delete record")
             print("5. Back")
+            print("6. Exit")
 
             action = input("Select action: ").strip()
 
@@ -185,6 +185,9 @@ def _file_menu(file_def: FileDef) -> None:
 
             elif action == "5":
                 return
+
+            elif action == "6":
+                sys.exit(0)
 
             else:
                 print("Invalid action.")
