@@ -12,7 +12,7 @@
         "setNumber": 75343,
         "name": "Dark Trooper Helmet",
         "series": "Star Wars"
-    } ,
+    },
     {
         "id": 3,
         "year": 2023,
@@ -47,5 +47,26 @@
         "setNumber": 75429,
         "name": "Princess Leia (Boushh) Helmet",
         "series": "Star Wars"
+    },
+    {
+        "id": 8,
+        "title": "Orchidea",
+        "year": 2022,
+        "number": 10311,
+        "series": "Icons"
+    },
+    {
+        "id": 9,
+        "title": "Kingfisher Bird",
+        "year": 2024,
+        "number": 10331,
+        "series": "Icons"
+    },
+    {
+        "id": 10,
+        "title": "Plum Blossom",
+        "year": 2024,
+        "number": 10369,
+        "series": "Icons"
     }
 ]
