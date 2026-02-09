@@ -192,6 +192,7 @@ def _file_menu(file_def: FileDef) -> None:
             else:
                 print("Invalid action.")
 
+
 def menu() -> None:
     print("Collectorium\n")
 
