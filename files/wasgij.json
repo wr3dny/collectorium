@@ -1,812 +1,1312 @@
 [
-    {
-        "id": 1,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 1,
-        "title": "The Best Days of our Lives!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 2,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 2,
-        "title": "The Proposal",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 3,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 3,
-        "title": "Sands of Time!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 4,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 4,
-        "title": "The Wasgij Games!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 5,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 5,
-        "title": "Time Travel",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 6,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 6,
-        "title": "Child's Play",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 7,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 7,
-        "title": "Rock around the Clock",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 8,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 8,
-        "title": "High Season",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 9,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 9,
-        "title": "Super Models",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 10,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 10,
-        "title": "High Street Hassle",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 11,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 11,
-        "title": "The Office!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 12,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 12,
-        "title": "Market Mayhem!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 13,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 13,
-        "title": "Commuting Chaos!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 14,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 14,
-        "title": "How times have changed!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 15,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 15,
-        "title": "Shopping Shake Up!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 16,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 16,
-        "title": "Old Time Rockers!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 17,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 17,
-        "title": "Paying the Price!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 18,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 18,
-        "title": "Fast Food Frenzy!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 19,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 19,
-        "title": "The Puzzlers Arms!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 20,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 20,
-        "title": "The Toy Shop!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 21,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 21,
-        "title": "Highway Hold-Up!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": true
-    },
-    {
-        "id": 22,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 22,
-        "title": "Trip to the Tip!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 23,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 23,
-        "title": "Theme Park Thrills!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 24,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 24,
-        "title": "Business as Usual!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 25,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 25,
-        "title": "Games Night!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 26,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 26,
-        "title": "Organic Overload!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 27,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 27,
-        "title": "Café to Latte!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 28,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 28,
-        "title": "Dad Cave!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 29,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 29,
-        "title": "Pitch Perfect!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 30,
-        "series": "Destiny",
-        "publisher": "Jumbo",
-        "numberInSeries": 30,
-        "title": "Harvesting Happiness!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 31,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 1,
-        "title": "The Wasgij Express!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 32,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 2,
-        "title": "Stop the Clock",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 33,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 3,
-        "title": "Drama at the Opera!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 34,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 4,
-        "title": "Live Entertainment",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 35,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 5,
-        "title": "Sunday Lunch",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 36,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 6,
-        "title": "Camping Commotion",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 37,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 7,
-        "title": "Everything Must Go!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 38,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 8,
-        "title": "The Final Hurdle!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 39,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 9,
-        "title": "Great Train Robbery!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 40,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 10,
-        "title": "Spring has Sprung!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 41,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 11,
-        "title": "Childcare!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 42,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 12,
-        "title": "The Unusual Suspects!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 43,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 13,
-        "title": "A Purrrfect Escape!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 44,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 14,
-        "title": "The Hound of the Wasgijville!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 45,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 15,
-        "title": "A Typical British BBQ!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 46,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 16,
-        "title": "Birthday Surprise!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 47,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 17,
-        "title": "Catching a Break!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 48,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 18,
-        "title": "Grabbing a Quick Bite!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 49,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 19,
-        "title": "Bingo Blunder!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": true
-    },
-    {
-        "id": 50,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 20,
-        "title": "Mountain Mayhem!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 51,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 21,
-        "title": "Trouble Brewing!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 52,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 22,
-        "title": "Wasgij Winter Games!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 53,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 23,
-        "title": "Pooch Parlour!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 54,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 24,
-        "title": "Blight at the museum!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 55,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 25,
-        "title": "Eurosound Contest!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 56,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 26,
-        "title": "Date Night!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 57,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 27,
-        "title": "A Close Shave!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 58,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 28,
-        "title": "Feline Frenzy!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 59,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 29,
-        "title": "Donation Debacle!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 60,
-        "series": "Mystery",
-        "publisher": "Jumbo",
-        "numberInSeries": 30,
-        "title": "Bullseye!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 61,
-        "series": "Christmas",
-        "publisher": "Jumbo",
-        "numberInSeries": 1,
-        "title": "Special Delivery",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 62,
-        "series": "Christmas",
-        "publisher": "Jumbo",
-        "numberInSeries": 2,
-        "title": "True Love, Cinderella!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 63,
-        "series": "Christmas",
-        "publisher": "Jumbo",
-        "numberInSeries": 3,
-        "title": "Short Circuit",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 64,
-        "series": "Christmas",
-        "publisher": "Jumbo",
-        "numberInSeries": 4,
-        "title": "White Christmas",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 65,
-        "series": "Christmas",
-        "publisher": "Jumbo",
-        "numberInSeries": 5,
-        "title": "That Warm Christmas Feeling",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 66,
-        "series": "Christmas",
-        "publisher": "Jumbo",
-        "numberInSeries": 6,
-        "title": "A Very Merry Christmas",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 67,
-        "series": "Christmas",
-        "publisher": "Jumbo",
-        "numberInSeries": 7,
-        "title": "A Christmas Stuffing!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 68,
-        "series": "Christmas",
-        "publisher": "Jumbo",
-        "numberInSeries": 8,
-        "title": "Christmas Getaway!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 69,
-        "series": "Christmas",
-        "publisher": "Jumbo",
-        "numberInSeries": 9,
-        "title": "A Bright Christmas Night!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 70,
-        "series": "Christmas",
-        "publisher": "Jumbo",
-        "numberInSeries": 10,
-        "title": "The Mystery Shopper!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 71,
-        "series": "Christmas",
-        "publisher": "Jumbo",
-        "numberInSeries": 11,
-        "title": "Double Trouble!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 72,
-        "series": "Christmas",
-        "publisher": "Jumbo",
-        "numberInSeries": 12,
-        "title": "The Big Turn On!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 73,
-        "series": "Christmas",
-        "publisher": "Jumbo",
-        "numberInSeries": 13,
-        "title": "Turkey's Delight!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 74,
-        "series": "Christmas",
-        "publisher": "Jumbo",
-        "numberInSeries": 14,
-        "title": "Santa's Little Helpers!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 75,
-        "series": "Christmas",
-        "publisher": "Jumbo",
-        "numberInSeries": 15,
-        "title": "Santa's Unexpected Delivery",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 76,
-        "series": "Christmas",
-        "publisher": "Jumbo",
-        "numberInSeries": 16,
-        "title": "The Christmas Show!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 77,
-        "series": "Christmas",
-        "publisher": "Jumbo",
-        "numberInSeries": 17,
-        "title": "Elf Inspection!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 78,
-        "series": "Christmas",
-        "publisher": "Jumbo",
-        "numberInSeries": 18,
-        "title": "Gingerbread Showstopper",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 79,
-        "series": "Christmas",
-        "publisher": "Jumbo",
-        "numberInSeries": 19,
-        "title": "Santa Dash!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 80,
-        "series": "Christmas",
-        "publisher": "Jumbo",
-        "numberInSeries": 20,
-        "title": "Spirits of Christmas!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    },
-    {
-        "id": 81,
-        "series": "Christmas",
-        "publisher": "Jumbo",
-        "numberInSeries": 21,
-        "title": "A Very Merry Makeover!",
-        "pieces": 1000,
-        "piecesInBox": 1000,
-        "owned": false
-    }
+  {
+    "id": 1,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 1,
+    "title": "The Best Days of our Lives!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 2,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 2,
+    "title": "The Proposal",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 3,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 3,
+    "title": "Sands of Time!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 4,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 4,
+    "title": "The Wasgij Games!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 5,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 5,
+    "title": "Time Travel",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 6,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 6,
+    "title": "Child's Play",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 7,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 7,
+    "title": "Rock around the Clock",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 8,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 8,
+    "title": "High Season",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 9,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 9,
+    "title": "Super Models",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 10,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 10,
+    "title": "High Street Hassle",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 11,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 11,
+    "title": "The Office!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 12,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 12,
+    "title": "Market Mayhem!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 13,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 13,
+    "title": "Commuting Chaos!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 14,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 14,
+    "title": "How times have changed!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 15,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 15,
+    "title": "Shopping Shake Up!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 16,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 16,
+    "title": "Old Time Rockers!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 17,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 17,
+    "title": "Paying the Price!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 18,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 18,
+    "title": "Fast Food Frenzy!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 19,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 19,
+    "title": "The Puzzlers Arms!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 20,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 20,
+    "title": "The Toy Shop!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 21,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 21,
+    "title": "Highway Hold-Up!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": true
+  },
+  {
+    "id": 22,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 22,
+    "title": "Trip to the Tip!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 23,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 23,
+    "title": "Theme Park Thrills!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 24,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 24,
+    "title": "Business as Usual!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 25,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 25,
+    "title": "Games Night!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 26,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 26,
+    "title": "Organic Overload!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 27,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 27,
+    "title": "Café to Latte!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 28,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 28,
+    "title": "Dad Cave!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 29,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 29,
+    "title": "Pitch Perfect!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 30,
+    "series": "Destiny",
+    "publisher": "Jumbo",
+    "numberInSeries": 30,
+    "title": "Harvesting Happiness!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 31,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 1,
+    "title": "The Wasgij Express!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 32,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 2,
+    "title": "Stop the Clock",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 33,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 3,
+    "title": "Drama at the Opera!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 34,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 4,
+    "title": "Live Entertainment",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 35,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 5,
+    "title": "Sunday Lunch",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 36,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 6,
+    "title": "Camping Commotion",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 37,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 7,
+    "title": "Everything Must Go!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 38,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 8,
+    "title": "The Final Hurdle!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 39,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 9,
+    "title": "Great Train Robbery!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 40,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 10,
+    "title": "Spring has Sprung!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 41,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 11,
+    "title": "Childcare!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 42,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 12,
+    "title": "The Unusual Suspects!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 43,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 13,
+    "title": "A Purrrfect Escape!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 44,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 14,
+    "title": "The Hound of the Wasgijville!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 45,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 15,
+    "title": "A Typical British BBQ!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 46,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 16,
+    "title": "Birthday Surprise!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 47,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 17,
+    "title": "Catching a Break!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 48,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 18,
+    "title": "Grabbing a Quick Bite!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 49,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 19,
+    "title": "Bingo Blunder!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": true
+  },
+  {
+    "id": 50,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 20,
+    "title": "Mountain Mayhem!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 51,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 21,
+    "title": "Trouble Brewing!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 52,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 22,
+    "title": "Wasgij Winter Games!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 53,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 23,
+    "title": "Pooch Parlour!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 54,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 24,
+    "title": "Blight at the museum!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 55,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 25,
+    "title": "Eurosound Contest!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 56,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 26,
+    "title": "Date Night!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 57,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 27,
+    "title": "A Close Shave!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 58,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 28,
+    "title": "Feline Frenzy!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 59,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 29,
+    "title": "Donation Debacle!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 60,
+    "series": "Mystery",
+    "publisher": "Jumbo",
+    "numberInSeries": 30,
+    "title": "Bullseye!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 61,
+    "series": "Christmas",
+    "publisher": "Jumbo",
+    "numberInSeries": 1,
+    "title": "Special Delivery",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 62,
+    "series": "Christmas",
+    "publisher": "Jumbo",
+    "numberInSeries": 2,
+    "title": "True Love, Cinderella!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 63,
+    "series": "Christmas",
+    "publisher": "Jumbo",
+    "numberInSeries": 3,
+    "title": "Short Circuit",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 64,
+    "series": "Christmas",
+    "publisher": "Jumbo",
+    "numberInSeries": 4,
+    "title": "White Christmas",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 65,
+    "series": "Christmas",
+    "publisher": "Jumbo",
+    "numberInSeries": 5,
+    "title": "That Warm Christmas Feeling",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 66,
+    "series": "Christmas",
+    "publisher": "Jumbo",
+    "numberInSeries": 6,
+    "title": "A Very Merry Christmas",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 67,
+    "series": "Christmas",
+    "publisher": "Jumbo",
+    "numberInSeries": 7,
+    "title": "A Christmas Stuffing!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 68,
+    "series": "Christmas",
+    "publisher": "Jumbo",
+    "numberInSeries": 8,
+    "title": "Christmas Getaway!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 69,
+    "series": "Christmas",
+    "publisher": "Jumbo",
+    "numberInSeries": 9,
+    "title": "A Bright Christmas Night!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 70,
+    "series": "Christmas",
+    "publisher": "Jumbo",
+    "numberInSeries": 10,
+    "title": "The Mystery Shopper!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 71,
+    "series": "Christmas",
+    "publisher": "Jumbo",
+    "numberInSeries": 11,
+    "title": "Double Trouble!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 72,
+    "series": "Christmas",
+    "publisher": "Jumbo",
+    "numberInSeries": 12,
+    "title": "The Big Turn On!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 73,
+    "series": "Christmas",
+    "publisher": "Jumbo",
+    "numberInSeries": 13,
+    "title": "Turkey's Delight!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 74,
+    "series": "Christmas",
+    "publisher": "Jumbo",
+    "numberInSeries": 14,
+    "title": "Santa's Little Helpers!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 75,
+    "series": "Christmas",
+    "publisher": "Jumbo",
+    "numberInSeries": 15,
+    "title": "Santa's Unexpected Delivery",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 76,
+    "series": "Christmas",
+    "publisher": "Jumbo",
+    "numberInSeries": 16,
+    "title": "The Christmas Show!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 77,
+    "series": "Christmas",
+    "publisher": "Jumbo",
+    "numberInSeries": 17,
+    "title": "Elf Inspection!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 78,
+    "series": "Christmas",
+    "publisher": "Jumbo",
+    "numberInSeries": 18,
+    "title": "Gingerbread Showstopper",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 79,
+    "series": "Christmas",
+    "publisher": "Jumbo",
+    "numberInSeries": 19,
+    "title": "Santa Dash!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 80,
+    "series": "Christmas",
+    "publisher": "Jumbo",
+    "numberInSeries": 20,
+    "title": "Spirits of Christmas!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 81,
+    "series": "Christmas",
+    "publisher": "Jumbo",
+    "numberInSeries": 21,
+    "title": "A Very Merry Makeover!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 82,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 1,
+    "title": "Sunday Drivers!",
+    "pieces": 500,
+    "piecesInBox": 500,
+    "owned": false
+  },
+  {
+    "id": 83,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 2,
+    "title": "Happy Holidays!",
+    "pieces": 500,
+    "piecesInBox": 500,
+    "owned": false
+  },
+  {
+    "id": 84,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 3,
+    "title": "Full Monty Fever!",
+    "pieces": 500,
+    "piecesInBox": 500,
+    "owned": false
+  },
+  {
+    "id": 85,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 4,
+    "title": "A Day to Remember!",
+    "pieces": 500,
+    "piecesInBox": 500,
+    "owned": false
+  },
+  {
+    "id": 86,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 5,
+    "title": "Late Booking!",
+    "pieces": 500,
+    "piecesInBox": 500,
+    "owned": false
+  },
+  {
+    "id": 87,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 6,
+    "title": "Blooming Marvellous!",
+    "pieces": 500,
+    "piecesInBox": 500,
+    "owned": false
+  },
+  {
+    "id": 88,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 7,
+    "title": "Bear Necessities!",
+    "pieces": 500,
+    "piecesInBox": 500,
+    "owned": false
+  },
+  {
+    "id": 89,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 8,
+    "title": "High Tide!",
+    "pieces": 500,
+    "piecesInBox": 500,
+    "owned": false
+  },
+  {
+    "id": 90,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 9,
+    "title": "Home Improvements!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 91,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 10,
+    "title": "Antique Hunt!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 92,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 11,
+    "title": "Beauty Salon!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 93,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 12,
+    "title": "The Mouth of the River!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 94,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 13,
+    "title": "Calendar Gals!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 95,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 14,
+    "title": "Football Madness!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 96,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 15,
+    "title": "Run Like the Wind!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 97,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 16,
+    "title": "Catch of the Day!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 98,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 17,
+    "title": "Ballroom Blushes!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 99,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 18,
+    "title": "Uproar at the Vets!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 100,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 19,
+    "title": "Cone-gestion!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 101,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 20,
+    "title": "Fishy Business!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 102,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 21,
+    "title": "Football Fever!",
+    "pieces": 2000,
+    "piecesInBox": 2000,
+    "owned": false
+  },
+  {
+    "id": 103,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 22,
+    "title": "Wasgij Studio Tour!",
+    "pieces": 1500,
+    "piecesInBox": 1500,
+    "owned": false
+  },
+  {
+    "id": 104,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 23,
+    "title": "The Bake Off!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 105,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 24,
+    "title": "A Very Merry Holiday!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 106,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 25,
+    "title": "Deal Breaker!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 107,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 26,
+    "title": "Celebrity Chief Chef!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 108,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 27,
+    "title": "The 20th Party Parade!",
+    "pieces": 2000,
+    "piecesInBox": 2000,
+    "owned": false
+  },
+  {
+    "id": 109,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 28,
+    "title": "Dropping the Weight!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 110,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 29,
+    "title": "Catching Wedding Fever!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 111,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 30,
+    "title": "Strictly Can't Dance!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 112,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 31,
+    "title": "Safari Surprise!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 113,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 32,
+    "title": "The Big Weigh In!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 114,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 33,
+    "title": "Calm on the Canal!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 115,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 34,
+    "title": "A Piece of Pride!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 116,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 35,
+    "title": "Car Boot Capers!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 117,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 36,
+    "title": "New Year Resolutions!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 118,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 37,
+    "title": "Holiday Fiasco!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 119,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 38,
+    "title": "Market Meltdown!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 120,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 39,
+    "title": "Chinese New Year!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 121,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 40,
+    "title": "25th Anniversary Garden Party!",
+    "pieces": 2000,
+    "piecesInBox": 2000,
+    "owned": false
+  },
+  {
+    "id": 122,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 41,
+    "title": "The Restore Store!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 123,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 42,
+    "title": "Rule the Runway!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 124,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 43,
+    "title": "Aquarium Antics!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 125,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 44,
+    "title": "Wasgij Summer Games!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 126,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 45,
+    "title": "Moving Day!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 127,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 46,
+    "title": "Middle Aisle Madness!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 128,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 47,
+    "title": "Boating Bedlam!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 129,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": 48,
+    "title": "What Happens in Vegas!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 130,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": null,
+    "title": "Wasgij Original Disney - Mickey's Party!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  },
+  {
+    "id": 131,
+    "series": "Original",
+    "publisher": "Jumbo",
+    "numberInSeries": null,
+    "title": "Wasgij Original Efteling - World of Sindbad!",
+    "pieces": 1000,
+    "piecesInBox": 1000,
+    "owned": false
+  }
 ]

@@ -1,18 +1,4106 @@
 [
-    {
-        "id": 1,
-        "year": 1957,
-        "number": 1,
-        "title": "Flota desantowa",
-        "scale": "1:50",
-        "owned": false
-    },
-    {
-        "id": 2,
-        "year": 1957,
-        "number": 1,
-        "title": "Flota desantowa",
-        "scale": "1:50",
-        "owned": false
-    }
+  {
+    "id": 1,
+    "year": 1957,
+    "number": "1",
+    "title": "Flota desantowa, barka LCM, kuter LCP, Churchill II",
+    "scale": "1:80",
+    "owned": false
+  },
+  {
+    "id": 2,
+    "year": 1958,
+    "number": "2",
+    "title": "Modele sylwetkowe szybowców Bocian i Jaskółka, samolotów MIG-15 i Zuch",
+    "scale": "1:75",
+    "owned": false
+  },
+  {
+    "id": 3,
+    "year": 1958,
+    "number": "3",
+    "title": "Samolot Zlin 26",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 4,
+    "year": 1958,
+    "number": "4",
+    "title": "Okręty podwodne ORP Orzeł i USS Nautilus",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 5,
+    "year": 1958,
+    "number": "4a",
+    "title": "Samochód małolitrażowy P-70 Zwickau",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 6,
+    "year": 1958,
+    "number": "5",
+    "title": "Samolot Suchoj Su-2",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 7,
+    "year": 1958,
+    "number": "6",
+    "title": "Kuter torpedowy Dark",
+    "scale": "1:80",
+    "owned": false
+  },
+  {
+    "id": 8,
+    "year": 1958,
+    "number": "7",
+    "title": "Samolot RWD-9",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 9,
+    "year": 1958,
+    "number": "8",
+    "title": "Szybowiec Mucha Standard",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 10,
+    "year": 1958,
+    "number": "9",
+    "title": "Drobnicowiec Marceli Nowotko",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 11,
+    "year": 1958,
+    "number": "10",
+    "title": "Samobieżna wyrzutnia rakietowa",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 12,
+    "year": 1958,
+    "number": "11",
+    "title": "Niszczyciel eskortowy Surcouf",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 13,
+    "year": 1958,
+    "number": "12",
+    "title": "Rakieta międzyplanetarna",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 14,
+    "year": 1959,
+    "number": "1",
+    "title": "Parowóz Pt47 i wagon osobowy Bhxz",
+    "scale": "1:87",
+    "owned": false
+  },
+  {
+    "id": 15,
+    "year": 1959,
+    "number": "2",
+    "title": "Samolot myśliwski PZL P.11c",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 16,
+    "year": 1959,
+    "number": "3",
+    "title": "Samochód ciężarowy Star-21",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 17,
+    "year": 1959,
+    "number": "4",
+    "title": "Samolot odrzutowy Ikarus",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 18,
+    "year": 1959,
+    "number": "5",
+    "title": "Szybowiec Jaskółka",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 19,
+    "year": 1959,
+    "number": "6",
+    "title": "Lodołamacz atomowy Lenin",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 20,
+    "year": 1959,
+    "number": "7-8",
+    "title": "Samolot bombowy PZL-37 B Łoś",
+    "scale": "1:50",
+    "owned": false
+  },
+  {
+    "id": 21,
+    "year": 1959,
+    "number": "9",
+    "title": "Samolot bombowy PZL-23 Karaś",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 22,
+    "year": 1959,
+    "number": "10",
+    "title": "Krążownik Tre Kronor",
+    "scale": "1:400",
+    "owned": false
+  },
+  {
+    "id": 23,
+    "year": 1959,
+    "number": "11",
+    "title": "Samolot Antonow An-2",
+    "scale": "1:40",
+    "owned": false
+  },
+  {
+    "id": 24,
+    "year": 1959,
+    "number": "12",
+    "title": "Samolot turystyczny PZL-26",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 25,
+    "year": 1960,
+    "number": "1",
+    "title": "Samochód Fiat-1800",
+    "scale": "1:15",
+    "owned": false
+  },
+  {
+    "id": 26,
+    "year": 1960,
+    "number": "2",
+    "title": "Samolot Mikojan MiG-19",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 27,
+    "year": 1960,
+    "number": "3",
+    "title": "Samolot Lublin R-XIII b",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 28,
+    "year": 1960,
+    "number": "4",
+    "title": "Krążownik De Grasse",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 29,
+    "year": 1960,
+    "number": "5",
+    "title": "Samolot odrzutowy Nord 1500 Griffon II",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 30,
+    "year": 1960,
+    "number": "6",
+    "title": "Samolot Lockheed XFV-1",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 31,
+    "year": 1960,
+    "number": "7",
+    "title": "Rakiety pocztowe PR-03",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 32,
+    "year": 1960,
+    "number": "8",
+    "title": "Statek wczasowy Mazowsze",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 33,
+    "year": 1960,
+    "number": "9",
+    "title": "Samolot LWS-3 Mewa",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 34,
+    "year": 1960,
+    "number": "10",
+    "title": "Samochód GAZ M21-K Wołga",
+    "scale": "1:15",
+    "owned": false
+  },
+  {
+    "id": 35,
+    "year": 1960,
+    "number": "11",
+    "title": "Samolot Polikarpow Po-2",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 36,
+    "year": 1960,
+    "number": "12",
+    "title": "Żaglowiec Dar Pomorza",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 37,
+    "year": 1960,
+    "number": "nr dodatkowy",
+    "title": "Modele sylwetkowe samolotów Jak-23, M-2, Su-3, szybowca Primorec",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 38,
+    "year": 1961,
+    "number": "1",
+    "title": "Samolot pionowego startu Coleopter",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 39,
+    "year": 1961,
+    "number": "2",
+    "title": "Lekki krążownik Tiger",
+    "scale": "1:400",
+    "owned": false
+  },
+  {
+    "id": 40,
+    "year": 1961,
+    "number": "3",
+    "title": "Samolot myśliwski Supermarine Spitfire",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 41,
+    "year": 1961,
+    "number": "4",
+    "title": "Okręty podwodne Wilk, Sokół, Dzik",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 42,
+    "year": 1961,
+    "number": "5",
+    "title": "Samolot komunikacyjny Tupolew Tu-114",
+    "scale": "1:80",
+    "owned": false
+  },
+  {
+    "id": 43,
+    "year": 1961,
+    "number": "6",
+    "title": "Krążownik Kirow",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 44,
+    "year": 1961,
+    "number": "7",
+    "title": "Szybowiec SZD-19-2 Zefir",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 45,
+    "year": 1961,
+    "number": "8",
+    "title": "Kuter radarowy RTTL-2754",
+    "scale": "1:50",
+    "owned": false
+  },
+  {
+    "id": 46,
+    "year": 1961,
+    "number": "9",
+    "title": "Samolot liniowo bombowy PZL.46 Sum",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 47,
+    "year": 1961,
+    "number": "10",
+    "title": "Drobnicowiec Krynica i holownik Tytan",
+    "scale": "1:400",
+    "owned": false
+  },
+  {
+    "id": 48,
+    "year": 1961,
+    "number": "11",
+    "title": "Radziecki Sputnik III",
+    "scale": "1:15",
+    "owned": false
+  },
+  {
+    "id": 49,
+    "year": 1961,
+    "number": "12",
+    "title": "Opancerzony transporter piechoty BTR-152",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 50,
+    "year": 1962,
+    "number": "1",
+    "title": "Samolot myśliwski North American P-51 Mustang",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 51,
+    "year": 1962,
+    "number": "2",
+    "title": "Lekki czołg pływający PT-76",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 52,
+    "year": 1962,
+    "number": "3",
+    "title": "Samolot Spad 51-C1",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 53,
+    "year": 1962,
+    "number": "4",
+    "title": "Krążownik Świerdłow",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 54,
+    "year": 1962,
+    "number": "5",
+    "title": "Samolot Brygadyr",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 55,
+    "year": 1962,
+    "number": "6",
+    "title": "Statki kosmiczne Wostok i Merkury",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 56,
+    "year": 1962,
+    "number": "7-8",
+    "title": "Dźwig samochodowy Star-25",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 57,
+    "year": 1962,
+    "number": "9",
+    "title": "Samolot myśliwski Ławoczkin Ła-5",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 58,
+    "year": 1963,
+    "number": "1-2",
+    "title": "Ścigacz okrętów podwodnych typu MO D-3 Bezwzględny",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 59,
+    "year": 1963,
+    "number": "3",
+    "title": "Samolot Westland Lysander",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 60,
+    "year": 1963,
+    "number": "4",
+    "title": "Samochód Żuk",
+    "scale": "1:15",
+    "owned": false
+  },
+  {
+    "id": 61,
+    "year": 1963,
+    "number": "5",
+    "title": "Czołg 7TP",
+    "scale": "1:20",
+    "owned": false
+  },
+  {
+    "id": 62,
+    "year": 1963,
+    "number": "6",
+    "title": "Statki Panna Wodna, Barbara, Grażyna",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 63,
+    "year": 1963,
+    "number": "7",
+    "title": "Samolot odrzutowy Gloster Meteor",
+    "scale": "1:50",
+    "owned": false
+  },
+  {
+    "id": 64,
+    "year": 1963,
+    "number": "8",
+    "title": "Samolot odrzutowy Aero L-29 Delfín",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 65,
+    "year": 1963,
+    "number": "9",
+    "title": "Samolot bombowy Vickers Wellington Mk. III",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 66,
+    "year": 1963,
+    "number": "10",
+    "title": "Czołg Churchill III",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 67,
+    "year": 1963,
+    "number": "11",
+    "title": "Samolot szkolny TS-11 Iskra",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 68,
+    "year": 1963,
+    "number": "12",
+    "title": "Śmigłowiec Kamow Ka-18",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 69,
+    "year": 1964,
+    "number": "1",
+    "title": "Zbiornikowiec Prof. M.T.Huber i holownik Żbik",
+    "scale": "1:400",
+    "owned": false
+  },
+  {
+    "id": 70,
+    "year": 1964,
+    "number": "2",
+    "title": "Samolot Bloch MB.152",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 71,
+    "year": 1964,
+    "number": "3",
+    "title": "Transporter opancerzony 50P",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 72,
+    "year": 1964,
+    "number": "4",
+    "title": "Samolot szturmowy Iljuszyn Ił-2",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 73,
+    "year": 1964,
+    "number": "5",
+    "title": "Plac budowy – roboty ziemne",
+    "scale": "1:50",
+    "owned": false
+  },
+  {
+    "id": 74,
+    "year": 1964,
+    "number": "6",
+    "title": "Stacja międzyplanetarna Wenusnik",
+    "scale": "1:44",
+    "owned": false
+  },
+  {
+    "id": 75,
+    "year": 1964,
+    "number": "7",
+    "title": "Stratosferyczny samolot przechwytujący",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 76,
+    "year": 1964,
+    "number": "8",
+    "title": "Samochód Tatra 603",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 77,
+    "year": 1964,
+    "number": "9",
+    "title": "Samolot szkolny Jakowlew UT-2",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 78,
+    "year": 1964,
+    "number": "10",
+    "title": "Współczesny krążownik atomowy",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 79,
+    "year": 1964,
+    "number": "11",
+    "title": "Samolot Breguet XIX-2",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 80,
+    "year": 1964,
+    "number": "12",
+    "title": "Portowy basen drobnicowy",
+    "scale": "1:400",
+    "owned": false
+  },
+  {
+    "id": 81,
+    "year": 1964,
+    "number": "nr dodatkowy",
+    "title": "Samolot bombowy PZL-37 B Łoś",
+    "scale": "1:50",
+    "owned": false
+  },
+  {
+    "id": 82,
+    "year": 1965,
+    "number": "1",
+    "title": "Zespół okrętów wojennych NRD",
+    "scale": "1:400",
+    "owned": false
+  },
+  {
+    "id": 83,
+    "year": 1965,
+    "number": "2",
+    "title": "Samolot Westland Wyvern SMk.IV",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 84,
+    "year": 1965,
+    "number": "3",
+    "title": "Rakietowy niszczyciel Kotlin",
+    "scale": "1:400",
+    "owned": false
+  },
+  {
+    "id": 85,
+    "year": 1965,
+    "number": "4",
+    "title": "Samolot myśliwski Mirage IIIc",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 86,
+    "year": 1965,
+    "number": "5",
+    "title": "Okręt normandzki",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 87,
+    "year": 1965,
+    "number": "6",
+    "title": "Okręt szkolny Iskra",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 88,
+    "year": 1965,
+    "number": "7",
+    "title": "Samolot myśliwski Kawasaki Ki-61",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 89,
+    "year": 1965,
+    "number": "8",
+    "title": "Holownik Flisak",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 90,
+    "year": 1965,
+    "number": "9",
+    "title": "Samolot myśliwski Polikarpow I-16 Rata",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 91,
+    "year": 1965,
+    "number": "10",
+    "title": "Samolot RWD-2",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 92,
+    "year": 1965,
+    "number": "11",
+    "title": "Samochód Star 66",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 93,
+    "year": 1965,
+    "number": "12",
+    "title": "Czołg IS-2",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 94,
+    "year": 1966,
+    "number": "1",
+    "title": "Samolot myśliwski Ławoczkin Ła-11",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 95,
+    "year": 1966,
+    "number": "2",
+    "title": "Kuter torpedowy typu MOR",
+    "scale": "1:50",
+    "owned": false
+  },
+  {
+    "id": 96,
+    "year": 1966,
+    "number": "3",
+    "title": "Samolot transportowy Lisunow Li-2",
+    "scale": "1:60",
+    "owned": false
+  },
+  {
+    "id": 97,
+    "year": 1966,
+    "number": "4",
+    "title": "Statek kosmiczny Gemini i sonda Lunnik-3",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 98,
+    "year": 1966,
+    "number": "5",
+    "title": "Samolot transportowy An-12",
+    "scale": "1:75",
+    "owned": false
+  },
+  {
+    "id": 99,
+    "year": 1966,
+    "number": "6",
+    "title": "Statek pasażerski Lilla Weneda",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 100,
+    "year": 1966,
+    "number": "7-8",
+    "title": "Samolot bombowy Avro 694 Lincoln",
+    "scale": "1:50",
+    "owned": false
+  },
+  {
+    "id": 101,
+    "year": 1966,
+    "number": "9",
+    "title": "Tankietka TKS",
+    "scale": "1:12,5",
+    "owned": false
+  },
+  {
+    "id": 102,
+    "year": 1966,
+    "number": "10",
+    "title": "Samolot PZL P-38 Wilk",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 103,
+    "year": 1966,
+    "number": "11-12",
+    "title": "Krążownik Aurora",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 104,
+    "year": 1967,
+    "number": "1",
+    "title": "Samolot Potez XV A2",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 105,
+    "year": 1967,
+    "number": "2",
+    "title": "Niszczyciel ORP „Burza”",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 106,
+    "year": 1967,
+    "number": "3",
+    "title": "Czołg T-34 Rudy",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 107,
+    "year": 1967,
+    "number": "4",
+    "title": "Samolot RWD-6",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 108,
+    "year": 1967,
+    "number": "5",
+    "title": "Samolot myśliwski Supermarine Spitfire Mk. Vb",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 109,
+    "year": 1967,
+    "number": "6",
+    "title": "Stawiacz min ORP Gryf",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 110,
+    "year": 1967,
+    "number": "7-8",
+    "title": "Samochód pożarniczy Star-21",
+    "scale": "1:20",
+    "owned": false
+  },
+  {
+    "id": 111,
+    "year": 1967,
+    "number": "9",
+    "title": "Śmigłowiec Mil Mi-4",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 112,
+    "year": 1967,
+    "number": "10",
+    "title": "Niszczyciel ORP Błyskawica",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 113,
+    "year": 1967,
+    "number": "11",
+    "title": "Samolot myśliwski MiG-3",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 114,
+    "year": 1967,
+    "number": "12",
+    "title": "Samolot komunikacyjny PLL LOT PWS-54",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 115,
+    "year": 1968,
+    "number": "1",
+    "title": "Kuter torpedowy KT P6A",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 116,
+    "year": 1968,
+    "number": "2",
+    "title": "Samolot myśliwski Hawker Tempest II Mk. V",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 117,
+    "year": 1968,
+    "number": "3",
+    "title": "Samolot RWD-9",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 118,
+    "year": 1968,
+    "number": "4",
+    "title": "Krążownik Raimondo Montecuccoli",
+    "scale": "1:250",
+    "owned": false
+  },
+  {
+    "id": 119,
+    "year": 1968,
+    "number": "5",
+    "title": "Szybowiec SZD-31 Zefir 4 i SZD-35 Foka 5",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 120,
+    "year": 1968,
+    "number": "6",
+    "title": "Czołg T-34 Rudy",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 121,
+    "year": 1968,
+    "number": "7-8",
+    "title": "Samolot myśliwski Lockheed P-38 Lightning",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 122,
+    "year": 1968,
+    "number": "9",
+    "title": "Samochód Oldsmobile",
+    "scale": "1:15",
+    "owned": false
+  },
+  {
+    "id": 123,
+    "year": 1968,
+    "number": "10",
+    "title": "Samolot PWS-26",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 124,
+    "year": 1968,
+    "number": "11",
+    "title": "Czołg BT-7",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 125,
+    "year": 1968,
+    "number": "12",
+    "title": "Lotniskowiec Arromanches",
+    "scale": "1:300",
+    "owned": false
+  },
+  {
+    "id": 126,
+    "year": 1969,
+    "number": "1",
+    "title": "Statek baza przetwórcza Gryf Pomorski",
+    "scale": "1:400",
+    "owned": false
+  },
+  {
+    "id": 127,
+    "year": 1969,
+    "number": "2-3",
+    "title": "Ścigacz okrętów podwodnych",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 128,
+    "year": 1969,
+    "number": "4",
+    "title": "Samolot szkolny PZL TS-8 Bies",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 129,
+    "year": 1969,
+    "number": "5",
+    "title": "Samolot bombowy PZL-23 Karaś",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 130,
+    "year": 1969,
+    "number": "6",
+    "title": "Niszczyciel Wicher",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 131,
+    "year": 1969,
+    "number": "7",
+    "title": "Czołg T-34 Rudy",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 132,
+    "year": 1969,
+    "number": "8",
+    "title": "Samolot RWD-5 bis",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 133,
+    "year": 1969,
+    "number": "9",
+    "title": "Okręt historyczny Wodnik",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 134,
+    "year": 1969,
+    "number": "10-11",
+    "title": "Samolot bombowy PZL-37 Łoś",
+    "scale": "1:50",
+    "owned": false
+  },
+  {
+    "id": 135,
+    "year": 1969,
+    "number": "12",
+    "title": "Drobnicowiec Domeyko",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 136,
+    "year": 1970,
+    "number": "1",
+    "title": "Samolot myśliwski PZL P.11c",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 137,
+    "year": 1970,
+    "number": "2",
+    "title": "Okręt podwodny Orzeł",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 138,
+    "year": 1970,
+    "number": "3",
+    "title": "Pancernik Rodney",
+    "scale": "1:300",
+    "owned": false
+  },
+  {
+    "id": 139,
+    "year": 1970,
+    "number": "4",
+    "title": "Samochód którym jeździł Lenin (Rolls Royce W. I. Lenina)",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 140,
+    "year": 1970,
+    "number": "5-6",
+    "title": "Samolot bombowy Tupolew Tu-2",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 141,
+    "year": 1970,
+    "number": "7",
+    "title": "Okręt historyczny Wodnik",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 142,
+    "year": 1970,
+    "number": "8",
+    "title": "Samolot myśliwski Suchoj Su-9",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 143,
+    "year": 1970,
+    "number": "9",
+    "title": "Samolot myśliwski PZL P.24 G",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 144,
+    "year": 1970,
+    "number": "10-11",
+    "title": "Statek Stefan Batory",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 145,
+    "year": 1970,
+    "number": "12",
+    "title": "Samochody Fiat-125P i Volvo",
+    "scale": "1:20",
+    "owned": false
+  },
+  {
+    "id": 146,
+    "year": 1971,
+    "number": "1-2",
+    "title": "Kuter rybacki B-25",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 147,
+    "year": 1971,
+    "number": "3",
+    "title": "Samolot myśliwski Jakowlew Jak-3",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 148,
+    "year": 1971,
+    "number": "4",
+    "title": "Czołg Cromwell",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 149,
+    "year": 1971,
+    "number": "5",
+    "title": "Zamek Królewski w Warszawie",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 150,
+    "year": 1971,
+    "number": "6",
+    "title": "Rakieta przeciwlotnicza",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 151,
+    "year": 1971,
+    "number": "7",
+    "title": "Samolot Mikojan MiG-23",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 152,
+    "year": 1971,
+    "number": "8",
+    "title": "Samolot myśliwski Hawker Hurricane",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 153,
+    "year": 1971,
+    "number": "9",
+    "title": "Żaglowiec Santa Maria",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 154,
+    "year": 1971,
+    "number": "10",
+    "title": "Parowóz Stephensona Rocket",
+    "scale": "1:20",
+    "owned": false
+  },
+  {
+    "id": 155,
+    "year": 1971,
+    "number": "11",
+    "title": "Samolot myśliwski Polikarpow I-153 Czajka",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 156,
+    "year": 1971,
+    "number": "12",
+    "title": "Jacht Opty",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 157,
+    "year": 1971,
+    "number": "dodatkowy N1/1971",
+    "title": "Krążownik Aurora",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 158,
+    "year": 1972,
+    "number": "1",
+    "title": "Samolot bombowy LWS-6 Żubr",
+    "scale": "1:50",
+    "owned": false
+  },
+  {
+    "id": 159,
+    "year": 1972,
+    "number": "2",
+    "title": "Samochód rajdowy Opel Kadett Coupe Raylle LS",
+    "scale": "1:17",
+    "owned": false
+  },
+  {
+    "id": 160,
+    "year": 1972,
+    "number": "3",
+    "title": "Samolot myśliwski Morane Saulnier MS 406",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 161,
+    "year": 1972,
+    "number": "4",
+    "title": "Samolot komunikacyjny Tupolew Tu-144",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 162,
+    "year": 1972,
+    "number": "5",
+    "title": "Kartonowe modele sylwetkowe Kaczka, Osa, Gacek, Drop",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 163,
+    "year": 1972,
+    "number": "6",
+    "title": "Galeona Zygmunta Augusta Smok",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 164,
+    "year": 1972,
+    "number": "7",
+    "title": "Samolot myśliwski Dewoitine D 520",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 165,
+    "year": 1972,
+    "number": "8",
+    "title": "Krążownik śmigłowcowiec Moskwa",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 166,
+    "year": 1972,
+    "number": "9",
+    "title": "Statek tylnokołowiec Western River",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 167,
+    "year": 1972,
+    "number": "10",
+    "title": "Samolot myśliwski Lawoczkin ŁaGG-3",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 168,
+    "year": 1972,
+    "number": "11",
+    "title": "Transporter opancerzony Skot",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 169,
+    "year": 1972,
+    "number": "12",
+    "title": "Samoloty myśliwskie Fokker Dr I i SE 5a",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 170,
+    "year": 1972,
+    "number": "dodatkowy N1/72",
+    "title": "Centrum Zdrowia Dziecka",
+    "scale": "1:400",
+    "owned": false
+  },
+  {
+    "id": 171,
+    "year": 1972,
+    "number": "dodatkowy N2/72",
+    "title": "Zamek Królewski w Warszawie",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 172,
+    "year": 1973,
+    "number": "1",
+    "title": "Samolot Polikarpow Po-2",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 173,
+    "year": 1973,
+    "number": "2",
+    "title": "Niszczyciel ORP „Burza”",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 174,
+    "year": 1973,
+    "number": "3",
+    "title": "Czołg T-54",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 175,
+    "year": 1973,
+    "number": "4",
+    "title": "Okręt podwodny Orzeł",
+    "scale": "1:150",
+    "owned": false
+  },
+  {
+    "id": 176,
+    "year": 1973,
+    "number": "5",
+    "title": "Samolot szturmowy Iljuszyn Ił-2",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 177,
+    "year": 1973,
+    "number": "6",
+    "title": "Kuter rakietowy MOR",
+    "scale": "1:125",
+    "owned": false
+  },
+  {
+    "id": 178,
+    "year": 1973,
+    "number": "7-8",
+    "title": "Samolot bombowy Handley Page Halifax",
+    "scale": "1:50",
+    "owned": false
+  },
+  {
+    "id": 179,
+    "year": 1973,
+    "number": "9",
+    "title": "Samolot myśliwski Supermarine Spitfire Mk Vb",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 180,
+    "year": 1973,
+    "number": "10",
+    "title": "Samochód osobowy Fiat 126p",
+    "scale": "1:15",
+    "owned": false
+  },
+  {
+    "id": 181,
+    "year": 1973,
+    "number": "11",
+    "title": "Samolot myśliwski PZL.50 Jastrząb",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 182,
+    "year": 1973,
+    "number": "12",
+    "title": "Koga Elbląska z 1350 roku",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 183,
+    "year": 1974,
+    "number": "1",
+    "title": "Samolot odrzutowy P1B Lightning II",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 184,
+    "year": 1974,
+    "number": "2",
+    "title": "Samoloty z I WS Morane, Nieuport i Fokker II",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 185,
+    "year": 1974,
+    "number": "3",
+    "title": "Makieta osady Biskupin",
+    "scale": "1:400",
+    "owned": false
+  },
+  {
+    "id": 186,
+    "year": 1974,
+    "number": "4",
+    "title": "Samolot PZL P-38 Wilk",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 187,
+    "year": 1974,
+    "number": "5",
+    "title": "Samochody (Rolls Royce, Silver Ghost, Corniche)",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 188,
+    "year": 1974,
+    "number": "6-7",
+    "title": "Żaglowiec Dar Pomorza",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 189,
+    "year": 1974,
+    "number": "8",
+    "title": "Rudowęglowiec 105-tysięcznik Budionnyj",
+    "scale": "1:420",
+    "owned": false
+  },
+  {
+    "id": 190,
+    "year": 1974,
+    "number": "9",
+    "title": "Rakieta przeciwlotnicza",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 191,
+    "year": 1974,
+    "number": "10-11",
+    "title": "Samolot bombowy PZL-37 Łoś",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 192,
+    "year": 1974,
+    "number": "12",
+    "title": "Wodnosamolot Beriew Be-4 (KOR-2)",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 193,
+    "year": 1975,
+    "number": "1",
+    "title": "Lekki czołg pływający PT-76",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 194,
+    "year": 1975,
+    "number": "2",
+    "title": "Żuraw Gdański",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 195,
+    "year": 1975,
+    "number": "3",
+    "title": "Samolot liniowy Lublin R-VII",
+    "scale": "1:50",
+    "owned": false
+  },
+  {
+    "id": 196,
+    "year": 1975,
+    "number": "4",
+    "title": "Samolot Jakowlew Jak-9",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 197,
+    "year": 1975,
+    "number": "5",
+    "title": "Czołg T-34 Rudy",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 198,
+    "year": 1975,
+    "number": "6",
+    "title": "Niszczyciel eskortowy Garland",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 199,
+    "year": 1975,
+    "number": "7",
+    "title": "Statek szkolny Zawisza Czarny",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 200,
+    "year": 1975,
+    "number": "8",
+    "title": "Samolot Mikojan MiG-21",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 201,
+    "year": 1975,
+    "number": "9",
+    "title": "Kolejka EKD",
+    "scale": "1:87",
+    "owned": false
+  },
+  {
+    "id": 202,
+    "year": 1975,
+    "number": "10",
+    "title": "Samolot Kyushu J7W Shinden",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 203,
+    "year": 1975,
+    "number": "11",
+    "title": "Statek rzeczny Krakus",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 204,
+    "year": 1975,
+    "number": "12",
+    "title": "Śmigłowiec BŻ-4 Żuk",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 205,
+    "year": 1975,
+    "number": "dodatkowy N1/75",
+    "title": "Zamek Królewski w Warszawie",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 206,
+    "year": 1976,
+    "number": "1-2",
+    "title": "Pancernik Rodney",
+    "scale": "1:300",
+    "owned": false
+  },
+  {
+    "id": 207,
+    "year": 1976,
+    "number": "3",
+    "title": "Samolot LWD Szpak",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 208,
+    "year": 1976,
+    "number": "4-5",
+    "title": "Żaglowiec Santa Maria",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 209,
+    "year": 1976,
+    "number": "6",
+    "title": "Niszczyciel współczesny",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 210,
+    "year": 1976,
+    "number": "7",
+    "title": "Samolot myśliwski Mitsubishi A6M Zero",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 211,
+    "year": 1976,
+    "number": "8",
+    "title": "Dwa modele samochodów wyścigowych – Formuła 1 i sportowy GT",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 212,
+    "year": 1976,
+    "number": "9",
+    "title": "Samolot bombowy Iljuszyn Il-28",
+    "scale": "1:50",
+    "owned": false
+  },
+  {
+    "id": 213,
+    "year": 1976,
+    "number": "10",
+    "title": "Ciągnik artyleryjski Mazur i armata",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 214,
+    "year": 1976,
+    "number": "11-12",
+    "title": "Samochód Jelcz-Kontener i samolot Spad XIII",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 215,
+    "year": 1977,
+    "number": "1",
+    "title": "Ścigacz okrętów podwodnych",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 216,
+    "year": 1977,
+    "number": "2",
+    "title": "Samolot myśliwski Curtiss P-40 Tomahawk",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 217,
+    "year": 1977,
+    "number": "3",
+    "title": "Krążownik śmigłowcowiec Moskwa",
+    "scale": "1:300",
+    "owned": false
+  },
+  {
+    "id": 218,
+    "year": 1977,
+    "number": "4",
+    "title": "Czołg średni Sherman (5)",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 219,
+    "year": 1977,
+    "number": "5-6",
+    "title": "Żaglowiec Victory",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 220,
+    "year": 1977,
+    "number": "7",
+    "title": "Makieta Ratusza Gdańskiego",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 221,
+    "year": 1977,
+    "number": "8",
+    "title": "Samochód którym jeździł Lenin (Rolls Royce W. I. Lenina)",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 222,
+    "year": 1977,
+    "number": "9",
+    "title": "Okręt desantowy",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 223,
+    "year": 1977,
+    "number": "10-11",
+    "title": "Krążownik Aurora",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 224,
+    "year": 1977,
+    "number": "12",
+    "title": "Samolot myśliwsko-bombowy De Havilland Mosquito",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 225,
+    "year": 1978,
+    "number": "1",
+    "title": "Samolot bombowy Petlakow Pe-2",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 226,
+    "year": 1978,
+    "number": "2-3",
+    "title": "Kuter pilotowy KP-400 Pilot-20",
+    "scale": "1:50",
+    "owned": false
+  },
+  {
+    "id": 227,
+    "year": 1978,
+    "number": "4",
+    "title": "Samolot myśliwski Mikojan MiG-23 & samolot Air-1",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 228,
+    "year": 1978,
+    "number": "5",
+    "title": "Okręt patrolowy Wojsk Ochrony Pogranicza",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 229,
+    "year": 1978,
+    "number": "6",
+    "title": "Niszczyciel Grom II",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 230,
+    "year": 1978,
+    "number": "7",
+    "title": "Samolot komunikacyjny Fokker F VIIB/3m",
+    "scale": "1:50",
+    "owned": false
+  },
+  {
+    "id": 231,
+    "year": 1978,
+    "number": "8-9",
+    "title": "Samolot bombowy PZL-37 Łoś",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 232,
+    "year": 1978,
+    "number": "10",
+    "title": "Samobieżne działo przeciwlotnicze ZSU - 23x4",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 233,
+    "year": 1978,
+    "number": "11",
+    "title": "Samolot transportowy Li-2",
+    "scale": "1:50",
+    "owned": false
+  },
+  {
+    "id": 234,
+    "year": 1978,
+    "number": "12",
+    "title": "Latarnia morska w Rozewiu",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 235,
+    "year": 1979,
+    "number": "1",
+    "title": "Samolot pasażerski Iljuszyn Ił-62",
+    "scale": "1:72",
+    "owned": false
+  },
+  {
+    "id": 236,
+    "year": 1979,
+    "number": "2-3",
+    "title": "Żaglowiec Dar Pomorza",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 237,
+    "year": 1979,
+    "number": "4",
+    "title": "Samolot myśliwski North American P-51 Mustang",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 238,
+    "year": 1979,
+    "number": "5",
+    "title": "Czołg lekki T-70",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 239,
+    "year": 1979,
+    "number": "6",
+    "title": "Okręt wojenny klasy trałowiec",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 240,
+    "year": 1979,
+    "number": "7",
+    "title": "Samolot szkolno-treningowy Zlin 42 M",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 241,
+    "year": 1979,
+    "number": "8-9",
+    "title": "Mury Miejskie Krakowa",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 242,
+    "year": 1979,
+    "number": "10",
+    "title": "Samochód osobowy Polonez",
+    "scale": "1:17",
+    "owned": false
+  },
+  {
+    "id": 243,
+    "year": 1979,
+    "number": "11-12",
+    "title": "Statek flagowy naukowo-badawczy Kosmonauta Jurij Gagarin",
+    "scale": "1:500",
+    "owned": false
+  },
+  {
+    "id": 244,
+    "year": 1980,
+    "number": "1",
+    "title": "Trałowiec Jaskółka",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 245,
+    "year": 1980,
+    "number": "2",
+    "title": "Samobieżne działo ISU-152",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 246,
+    "year": 1980,
+    "number": "3",
+    "title": "Szybowiec wyczynowy SZD-31 Zefir-4",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 247,
+    "year": 1980,
+    "number": "4",
+    "title": "Statek kosmiczny Sojuz-30",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 248,
+    "year": 1980,
+    "number": "5",
+    "title": "Okręt podwodny Dzik",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 249,
+    "year": 1980,
+    "number": "6",
+    "title": "Wodnosamolot Supermarine Walrus",
+    "scale": "1:50",
+    "owned": false
+  },
+  {
+    "id": 250,
+    "year": 1980,
+    "number": "7-8",
+    "title": "Żaglowiec Dar Młodzieży",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 251,
+    "year": 1980,
+    "number": "9",
+    "title": "Samolot myśliwski PZL P.11c",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 252,
+    "year": 1980,
+    "number": "10",
+    "title": "Wóz pancerny z czasów Rewolucji Październikowej Putilow-Garford",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 253,
+    "year": 1980,
+    "number": "11-12",
+    "title": "Współczesny trałowiec bazowy",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 254,
+    "year": 1981,
+    "number": "1",
+    "title": "Galeona Zygmunta Augusta Smok",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 255,
+    "year": 1981,
+    "number": "2",
+    "title": "Samolot myśliwski Mirage IIIc",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 256,
+    "year": 1981,
+    "number": "3",
+    "title": "Monitor rzeczny Żelaźniakow",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 257,
+    "year": 1981,
+    "number": "4",
+    "title": "Czołg ciężki KW-1",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 258,
+    "year": 1981,
+    "number": "5-6",
+    "title": "Niszczyciel ORP Błyskawica",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 259,
+    "year": 1981,
+    "number": "7",
+    "title": "Samolot myśliwski nocny Boulton Paul Defiant",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 260,
+    "year": 1981,
+    "number": "8",
+    "title": "Wodolot typu Kometa",
+    "scale": "1:75",
+    "owned": false
+  },
+  {
+    "id": 261,
+    "year": 1981,
+    "number": "9",
+    "title": "Czołg pływający PZInż 130",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 262,
+    "year": 1981,
+    "number": "10",
+    "title": "Samolot rolniczy PZL-106 A Kruk",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 263,
+    "year": 1981,
+    "number": "11",
+    "title": "Samolot myśliwski Ansaldo A.1 Balilla",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 264,
+    "year": 1981,
+    "number": "12",
+    "title": "Współczesny okręt rakietowy",
+    "scale": "1:75",
+    "owned": false
+  },
+  {
+    "id": 265,
+    "year": 1982,
+    "number": "1",
+    "title": "Samolot liniowo bombowy PZL.46 Sum",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 266,
+    "year": 1982,
+    "number": "2-3",
+    "title": "Eskortowiec Tobruk",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 267,
+    "year": 1982,
+    "number": "4",
+    "title": "Śmigłowiec Mi-24 i samolot myśliwski Nakajima Ki-43 Hayabusa",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 268,
+    "year": 1982,
+    "number": "5",
+    "title": "Kliper herbaciany Cutty Sark",
+    "scale": "1:82",
+    "owned": false
+  },
+  {
+    "id": 269,
+    "year": 1982,
+    "number": "6",
+    "title": "Samolot myśliwski Jakowlew Jakowlew Jak-23",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 270,
+    "year": 1982,
+    "number": "7",
+    "title": "Samolot pokładowy Beriew Be-2",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 271,
+    "year": 1982,
+    "number": "8",
+    "title": "Lekki krążownik ORP Conrad",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 272,
+    "year": 1982,
+    "number": "9",
+    "title": "Czołg IS-3",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 273,
+    "year": 1983,
+    "number": "1",
+    "title": "Samolot turystyczny RWD-13",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 274,
+    "year": 1983,
+    "number": "2",
+    "title": "Samolot szturmowy Iljuszyn Ił-2 i sylwetkowe Ił-2 i Ił-10",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 275,
+    "year": 1983,
+    "number": "3",
+    "title": "Trałowiec Kormoran",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 276,
+    "year": 1983,
+    "number": "4",
+    "title": "Okręt podwodny K-21",
+    "scale": "1:150",
+    "owned": false
+  },
+  {
+    "id": 277,
+    "year": 1983,
+    "number": "5",
+    "title": "Lekkie działo samobieżne Su-76",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 278,
+    "year": 1983,
+    "number": "6",
+    "title": "Niszczyciel eskortowy ORP Ślązak",
+    "scale": "1:250",
+    "owned": false
+  },
+  {
+    "id": 279,
+    "year": 1983,
+    "number": "7",
+    "title": "Samolot myśliwski Ławoczkin Ła-7",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 280,
+    "year": 1983,
+    "number": "8",
+    "title": "Rudowęglowiec Sołdek",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 281,
+    "year": 1983,
+    "number": "9",
+    "title": "Samolot szkolno-łącznikowy RWD-8",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 282,
+    "year": 1983,
+    "number": "10",
+    "title": "Średnie działo pancerne SU-100",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 283,
+    "year": 1983,
+    "number": "11-12",
+    "title": "Włoski pancernik Vittorio Veneto",
+    "scale": "1:300",
+    "owned": false
+  },
+  {
+    "id": 284,
+    "year": 1984,
+    "number": "1-2",
+    "title": "Pancernik Potiomkin",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 285,
+    "year": 1984,
+    "number": "3",
+    "title": "Samolot myśliwski Mitsubishi J2M Raiden",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 286,
+    "year": 1984,
+    "number": "4-5",
+    "title": "Samochód terenowy GAZ 69 M",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 287,
+    "year": 1984,
+    "number": "6",
+    "title": "Statek szkolny Zawisza Czarny",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 288,
+    "year": 1984,
+    "number": "7",
+    "title": "Samolot Potez XXV A2",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 289,
+    "year": 1984,
+    "number": "8",
+    "title": "Samolot szkolny RWD-17",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 290,
+    "year": 1984,
+    "number": "9",
+    "title": "Lekki czołg Renault R-35",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 291,
+    "year": 1984,
+    "number": "10-11",
+    "title": "Samolot bombowy Vickers Wellington Mk III",
+    "scale": "1:50",
+    "owned": false
+  },
+  {
+    "id": 292,
+    "year": 1984,
+    "number": "12",
+    "title": "Niszczyciel ORP „Burza”",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 293,
+    "year": 1985,
+    "number": "1",
+    "title": "Samolot myśliwski Mikojan MiG-25",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 294,
+    "year": 1985,
+    "number": "2",
+    "title": "Kuter torpedowy Szerszeń",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 295,
+    "year": 1985,
+    "number": "3",
+    "title": "Samolot Suchoj Su-2",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 296,
+    "year": 1985,
+    "number": "4-5",
+    "title": "Statek ratowniczy Halny",
+    "scale": "1:50",
+    "owned": false
+  },
+  {
+    "id": 297,
+    "year": 1985,
+    "number": "6",
+    "title": "Samolot myśliwski Bell P-39 Airacobra",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 298,
+    "year": 1985,
+    "number": "7",
+    "title": "Lodołamacz Krasin",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 299,
+    "year": 1985,
+    "number": "8",
+    "title": "Samolot myśliwski Macchi C.200 Saeta",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 300,
+    "year": 1985,
+    "number": "9",
+    "title": "Niszczyciel Le Terrible",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 301,
+    "year": 1985,
+    "number": "10",
+    "title": "Samoloty myśliwskie Sopwith Camel i Sopwith Triplane",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 302,
+    "year": 1985,
+    "number": "11-12",
+    "title": "Czołg średni T-72",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 303,
+    "year": 1986,
+    "number": "1-2",
+    "title": "Pancernik King George V",
+    "scale": "1:300",
+    "owned": false
+  },
+  {
+    "id": 304,
+    "year": 1986,
+    "number": "3-4",
+    "title": "Żaglowiec Victory",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 305,
+    "year": 1986,
+    "number": "5",
+    "title": "Samolot myśliwski Nakajima Kl-44 Shoki (Tojo)",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 306,
+    "year": 1986,
+    "number": "6",
+    "title": "Samolot myśliwski MiG-17",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 307,
+    "year": 1986,
+    "number": "7",
+    "title": "Współczesny polski ścigacz patrolowy",
+    "scale": null,
+    "owned": false
+  },
+  {
+    "id": 308,
+    "year": 1986,
+    "number": "8",
+    "title": "Samolot myśliwski PZL P.11c",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 309,
+    "year": 1986,
+    "number": "9",
+    "title": "Niszczyciel eskortowy Garland",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 310,
+    "year": 1986,
+    "number": "10-11",
+    "title": "Krążownik ZOP Mińsk",
+    "scale": "1:400",
+    "owned": false
+  },
+  {
+    "id": 311,
+    "year": 1986,
+    "number": "12",
+    "title": "Czołg lekki Renault R17",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 312,
+    "year": 1987,
+    "number": "1",
+    "title": "Ciężki samolot myśliwski Bristol Beaufighter MK VIF",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 313,
+    "year": 1987,
+    "number": "2-3",
+    "title": "Okręt liniowy Oktiabrskaja Rewolucja",
+    "scale": "1:300",
+    "owned": false
+  },
+  {
+    "id": 314,
+    "year": 1987,
+    "number": "4",
+    "title": "Samolot Breguet XIX B-2",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 315,
+    "year": 1987,
+    "number": "5",
+    "title": "Samochody pancerne wz. 34, 29, 28",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 316,
+    "year": 1987,
+    "number": "6",
+    "title": "Samolot myśliwski PZL P-24G",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 317,
+    "year": 1987,
+    "number": "7-8",
+    "title": "Lekki krążownik HMS Penelope",
+    "scale": "1:250",
+    "owned": false
+  },
+  {
+    "id": 318,
+    "year": 1987,
+    "number": "9",
+    "title": "Samolot myśliwsko-bombowy Mirage F1C",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 319,
+    "year": 1987,
+    "number": "10-11",
+    "title": "Samolot myśliwski Lockheed P-38 Lightning",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 320,
+    "year": 1987,
+    "number": "12",
+    "title": "Ścigacz artyleryjski S-2 ORP Wilczur",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 321,
+    "year": 1988,
+    "number": "1-2",
+    "title": "Niszczyciel ORP Piorun",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 322,
+    "year": 1988,
+    "number": "3",
+    "title": "Samolot szkolno-treningowy PZL-130 Orlik",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 323,
+    "year": 1988,
+    "number": "4-5",
+    "title": "Krążownik przeciwlotniczy HMS Dido",
+    "scale": "1:250",
+    "owned": false
+  },
+  {
+    "id": 324,
+    "year": 1988,
+    "number": "6",
+    "title": "Samolot szkolno-treningowy North American Harvard Mk. II B",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 325,
+    "year": 1988,
+    "number": "7",
+    "title": "Samolot akrobacyjny RWD-10 i szybowiec Czajka-bis",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 326,
+    "year": 1988,
+    "number": "8-9",
+    "title": "Duży ścigacz okrętów podwodnych typu Kronsztad",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 327,
+    "year": 1988,
+    "number": "10",
+    "title": "Samolot bombowy Iljuszyn Ił-4",
+    "scale": "1:50",
+    "owned": false
+  },
+  {
+    "id": 328,
+    "year": 1988,
+    "number": "11-12",
+    "title": "Samolot bombowy Consolidated B-24 Liberator",
+    "scale": "1:50",
+    "owned": false
+  },
+  {
+    "id": 329,
+    "year": 1989,
+    "number": "1-2",
+    "title": "Żaglowiec z XVII wieku Mayflower",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 330,
+    "year": 1989,
+    "number": "3",
+    "title": "Samolot Lublin R-XIII b",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 331,
+    "year": 1989,
+    "number": "4",
+    "title": "Lekki czołg pływający T-38",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 332,
+    "year": 1990,
+    "number": "1-2",
+    "title": "Samolot myśliwsko-bombowy Suchoj Su-22",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 333,
+    "year": 1990,
+    "number": "3",
+    "title": "Czołg lekki M5A1 Stuart VI",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 334,
+    "year": 1990,
+    "number": "4",
+    "title": "Samolot myśliwski Grumman F6F3 Hellcat",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 335,
+    "year": 1990,
+    "number": "5-6",
+    "title": "Pancernik HMS Vanguard",
+    "scale": "1:300",
+    "owned": false
+  },
+  {
+    "id": 336,
+    "year": 1990,
+    "number": "7",
+    "title": "Samolot myśliwski Messerschmitt Me 109E",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 337,
+    "year": 1990,
+    "number": "8-9",
+    "title": "Samolot Dassault Mirage 2000",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 338,
+    "year": 1990,
+    "number": "10",
+    "title": "Samolot myśliwski Chance Vought F4U-1D Corsair",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 339,
+    "year": 1990,
+    "number": "11-12",
+    "title": "Lotniskowiec HMS Ark Royal",
+    "scale": "1:300",
+    "owned": false
+  },
+  {
+    "id": 340,
+    "year": 1991,
+    "number": "1",
+    "title": "Bombowiec nurkujący Junkers Ju 87 Stuka",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 341,
+    "year": 1991,
+    "number": "2",
+    "title": "Samolot Douglas TBD1 Devastator",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 342,
+    "year": 1991,
+    "number": "3",
+    "title": "Samolot myśliwski Focke-Wulf Fw 190 F",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 343,
+    "year": 1991,
+    "number": "4",
+    "title": "Kuter torpedowy MAS",
+    "scale": "1:50",
+    "owned": false
+  },
+  {
+    "id": 344,
+    "year": 1991,
+    "number": "5-6",
+    "title": "Samolot bombowy Boeing B-17G",
+    "scale": "1:50",
+    "owned": false
+  },
+  {
+    "id": 345,
+    "year": 1991,
+    "number": "7",
+    "title": "Samolot myśliwsko-bombowy Messerschmitt bf 110 C",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 346,
+    "year": 1991,
+    "number": "8",
+    "title": "Czołg pływający 2 KA-MI",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 347,
+    "year": 1991,
+    "number": "9",
+    "title": "Samolot myśliwski Messerschmitt Me 262 Schwalbe",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 348,
+    "year": 1991,
+    "number": "10-11",
+    "title": "Pancernik Rodney",
+    "scale": "1:300",
+    "owned": false
+  },
+  {
+    "id": 349,
+    "year": 1991,
+    "number": "12",
+    "title": "Samolot myśliwski Mitsubishi Ki-46 III Kai Dinah",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 350,
+    "year": 1992,
+    "number": "1-2",
+    "title": "Lekki krążownik ORP Conrad",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 351,
+    "year": 1992,
+    "number": "3",
+    "title": "Monitor rzeczny ORP Kraków",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 352,
+    "year": 1992,
+    "number": "4-5",
+    "title": "Samolot bombowy Mitsubishi G4M Betty & Ohka",
+    "scale": "1:50",
+    "owned": false
+  },
+  {
+    "id": 353,
+    "year": 1992,
+    "number": "6",
+    "title": "Kuter torpedowy Elco",
+    "scale": "1:50",
+    "owned": false
+  },
+  {
+    "id": 354,
+    "year": 1992,
+    "number": "7",
+    "title": "Samolot myśliwski Gloster Gladiator Mk II",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 355,
+    "year": 1992,
+    "number": "8-9",
+    "title": "Żaglowiec Santa Maria",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 356,
+    "year": 1992,
+    "number": "10",
+    "title": "Samolot myśliwski Grumman F4F Wildcat",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 357,
+    "year": 1992,
+    "number": "11-12",
+    "title": "Lotniskowiec USS Belleau Wood",
+    "scale": "1:300",
+    "owned": false
+  },
+  {
+    "id": 358,
+    "year": 1993,
+    "number": "1",
+    "title": "Samolot szturmowy Henschel Hs 123A-1",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 359,
+    "year": 1993,
+    "number": "2-3",
+    "title": "Okręt liniowy Richelieu",
+    "scale": "1:300",
+    "owned": false
+  },
+  {
+    "id": 360,
+    "year": 1993,
+    "number": "4",
+    "title": "Samolot szkolno-bojowy PZL I-22 Iryda",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 361,
+    "year": 1993,
+    "number": "5",
+    "title": "Samolot myśliwski Westland Whirlwind",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 362,
+    "year": 1993,
+    "number": "6",
+    "title": "Samolot myśliwski Hawker Typhoon",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 363,
+    "year": 1993,
+    "number": "7-8",
+    "title": "Samolot bombowy Bristol Beaufort",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 364,
+    "year": 1993,
+    "number": "9",
+    "title": "Samolot myśliwski Kawasaki Ki-61",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 365,
+    "year": 1993,
+    "number": "10-11",
+    "title": "Krążownik Nurnberg",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 366,
+    "year": 1993,
+    "number": "12",
+    "title": "Samolot Yokosuka D4Y4/Suisei",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 367,
+    "year": 1994,
+    "number": "1-2",
+    "title": "Samolot bombowy North American B-25 D Mitchell",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 368,
+    "year": 1994,
+    "number": "3",
+    "title": "Piotr z Gdańska. Gdańska Karaka z XV w.",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 369,
+    "year": 1994,
+    "number": "4",
+    "title": "Samolot myśliwski British Aerospace Sea Harrier",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 370,
+    "year": 1994,
+    "number": "5-6",
+    "title": "Samolot szturmowy A-10 Thunderbolt II",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 371,
+    "year": 1994,
+    "number": "7-8",
+    "title": "Czołg Mk VI Crusader III",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 372,
+    "year": 1994,
+    "number": "9",
+    "title": "Śmigłowiec bojowy Bell AH-1 Cobra",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 373,
+    "year": 1994,
+    "number": "10-11",
+    "title": "Samolot bombowy Handley Page Hampden",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 374,
+    "year": 1994,
+    "number": "12",
+    "title": "Samolot myśliwski Supermarine Spitfire Mk. VIII",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 375,
+    "year": 1995,
+    "number": "1",
+    "title": "Samoloty myśliwskie Fokker E III. i Sopwith PUP",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 376,
+    "year": 1995,
+    "number": "2-3",
+    "title": "Samolot myśliwski MiG-29",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 377,
+    "year": 1995,
+    "number": "4",
+    "title": "Śmigłowiec transportowy Westland Whirlwind HAS.7",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 378,
+    "year": 1995,
+    "number": "5-6",
+    "title": "Samolot bombowy PZL-37 Łoś",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 379,
+    "year": 1995,
+    "number": "7-8",
+    "title": "Lotniskowiec USS Essex",
+    "scale": "1:300",
+    "owned": false
+  },
+  {
+    "id": 380,
+    "year": 1995,
+    "number": "9",
+    "title": "Czołg pływający PZInz. 130",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 381,
+    "year": 1995,
+    "number": "10-11",
+    "title": "Śmigłowiec McDonnell Douglas AH-64 Apache",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 382,
+    "year": 1995,
+    "number": "12",
+    "title": "Samolot myśliwski PWS-A (Avia BH-33)",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 383,
+    "year": 1996,
+    "number": "1-2/96",
+    "title": "Samolot Arado 196",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 384,
+    "year": 1996,
+    "number": "3",
+    "title": "Samolot myśliwski Mitsubishi J2M3 Raiden",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 385,
+    "year": 1996,
+    "number": "4-5",
+    "title": "Samolot szturmowy Ju 87 G-2, Ba 349 Natter, Fi 103 Reinchenberg",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 386,
+    "year": 1996,
+    "number": "6",
+    "title": "Niszczyciel ORP „Burza”",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 387,
+    "year": 1996,
+    "number": "7-8",
+    "title": "Czołg T-34 Rudy",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 388,
+    "year": 1996,
+    "number": "9",
+    "title": "Samolot myśliwski Albatros D.III (Oef)",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 389,
+    "year": 1996,
+    "number": "10-11",
+    "title": "Samolot myśliwski Suchoj Su-27",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 390,
+    "year": 1996,
+    "number": "12",
+    "title": "Samoloty sportowe RWD-4, RWD-5 Bis",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 391,
+    "year": 1997,
+    "number": "1",
+    "title": "Czołg lekki 7 TP",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 392,
+    "year": 1997,
+    "number": "2-3",
+    "title": "Okręt podwodny ORP Orzeł",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 393,
+    "year": 1997,
+    "number": "4-5",
+    "title": "Okręt szkolny PMW ORP Iskra",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 394,
+    "year": 1997,
+    "number": "6",
+    "title": "Śmigłowiec wielozadaniowy MI-2",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 395,
+    "year": 1997,
+    "number": "7-8",
+    "title": "Niszczyciel ORP Błyskawica",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 396,
+    "year": 1997,
+    "number": "9",
+    "title": "Samolot myśliwski Hawker Tempest F Mk. II",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 397,
+    "year": 1997,
+    "number": "10-11",
+    "title": "Podwodny stawiacz min ORP Wilk",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 398,
+    "year": 1997,
+    "number": "12",
+    "title": "Samolot wielozadaniowy Westland Lysander Mk. II",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 399,
+    "year": 1998,
+    "number": "1-2",
+    "title": "Śmigłowiec szturmowy Mi-28 Havoc",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 400,
+    "year": 1998,
+    "number": "3",
+    "title": "Samolot myśliwski Messerschmitt Me 163 B Komet",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 401,
+    "year": 1998,
+    "number": "4-5",
+    "title": "Czołg PzKpfw VI Tiger Ausf. H1",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 402,
+    "year": 1998,
+    "number": "6",
+    "title": "Samolot myśliwski Thunderbolt P-47",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 403,
+    "year": 1998,
+    "number": "7",
+    "title": "Samolot myśliwski Fokker E.V",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 404,
+    "year": 1998,
+    "number": "8-9",
+    "title": "Samolot rozpoznawczy Focke-Wulf FW 189 UHU",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 405,
+    "year": 1998,
+    "number": "10-11",
+    "title": "Statek żeglugi przybrzeżnej Emilia",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 406,
+    "year": 1998,
+    "number": "12",
+    "title": "Samolot szkolno-myśliwski Focke-Wulf Fw-56 Stosser",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 407,
+    "year": 1999,
+    "number": "1-2",
+    "title": "Samolot wielozadaniowy Messerschmitt Me 410",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 408,
+    "year": 1999,
+    "number": "3",
+    "title": "Samolot Kawanishi N1K1-Ja Shiden",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 409,
+    "year": 1999,
+    "number": "4-5",
+    "title": "Samolot myśliwski F-16C",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 410,
+    "year": 1999,
+    "number": "6",
+    "title": "Samolot myśliwski Northrop F-5 E Tiger II",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 411,
+    "year": 1999,
+    "number": "7-8",
+    "title": "Dźwig samochodowy Star-25",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 412,
+    "year": 1999,
+    "number": "9",
+    "title": "Czołg rozpoznawczy PZInz 140 (4TP)",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 413,
+    "year": 1999,
+    "number": "nr10-11/99",
+    "title": "Samolot wielozadaniowy F/A 18 Hornet",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 414,
+    "year": 1999,
+    "number": "12",
+    "title": "Bombowiec pokładowy Douglas SBD-3 Dauntless",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 415,
+    "year": 2000,
+    "number": "1-2",
+    "title": "Galeona Zygmunta Augusta Smok",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 416,
+    "year": 2000,
+    "number": "3",
+    "title": "Trałowiec ORP Jaskółka",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 417,
+    "year": 2000,
+    "number": "4-5",
+    "title": "Samolot pościgowy PZL-38 Wilk",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 418,
+    "year": 2000,
+    "number": "6",
+    "title": "Okręt podwodny ORP Dzik",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 419,
+    "year": 2000,
+    "number": "7-8",
+    "title": "Samolot bombowy Junkers JU 88 A4",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 420,
+    "year": 2000,
+    "number": "9",
+    "title": "Koga Elbląska z 1350 roku",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 421,
+    "year": 2000,
+    "number": "10-11",
+    "title": "Samolot myśliwsko-bombowy Mosquito Mk. VI FB",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 422,
+    "year": 2000,
+    "number": "12",
+    "title": "Samolot myśliwski Mitsubishi A6M Zero",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 423,
+    "year": 2001,
+    "number": "1-2",
+    "title": "Samolot wielozadaniowy F-4E Phantom II",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 424,
+    "year": 2001,
+    "number": "3",
+    "title": "Żaglowiec z XVII wieku Mayflower",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 425,
+    "year": 2001,
+    "number": "4-5",
+    "title": "Samolot myśliwski Fokker Dr I",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 426,
+    "year": 2001,
+    "number": "6",
+    "title": "Żaglowiec z XVIII wieku HMS Bounty",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 427,
+    "year": 2001,
+    "number": "7-8",
+    "title": "Samolot myśliwsko-szturmowy JAS 39 Gripen",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 428,
+    "year": 2001,
+    "number": "9",
+    "title": "Śmigłowiec bojowy Bell AH-1S Cobra",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 429,
+    "year": 2001,
+    "number": "10-11",
+    "title": "Samolot szturmowy A-10 Thunderbolt II",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 430,
+    "year": 2001,
+    "number": "12",
+    "title": "Niszczyciel ORP Piorun",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 431,
+    "year": 2002,
+    "number": "1-2",
+    "title": "Czołg Cromwell",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 432,
+    "year": 2002,
+    "number": "3",
+    "title": "Samolot bombowo-torpedowy Nakajima B5N2 Kate",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 433,
+    "year": 2002,
+    "number": "4-5",
+    "title": "Żaglowiec Dar Pomorza",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 434,
+    "year": 2002,
+    "number": "6",
+    "title": "Samolot myśliwski Hawker Hurricane Mk. I",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 435,
+    "year": 2002,
+    "number": "7-8",
+    "title": "Samolot myśliwski MiG-29",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 436,
+    "year": 2002,
+    "number": "9",
+    "title": "Samolot myśliwski Messerschmitt Bf 109G-6 Gustaw",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 437,
+    "year": 2002,
+    "number": "10-11",
+    "title": "Samolot myśliwski Grumman F4F Wildcat",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 438,
+    "year": 2002,
+    "number": "12",
+    "title": "Niszczyciel ORP „Burza”",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 439,
+    "year": 2003,
+    "number": "1-2",
+    "title": "Samolot myśliwski P-51B Mustang",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 440,
+    "year": 2003,
+    "number": "3",
+    "title": "Holk Gdański z 1400 roku",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 441,
+    "year": 2003,
+    "number": "4-5-6",
+    "title": "Samolot myśliwski Su-27B Flanker",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 442,
+    "year": 2003,
+    "number": "7-8",
+    "title": "Śmigłowiec szturmowy AH-64A Apache",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 443,
+    "year": 2003,
+    "number": "9",
+    "title": "Samolot myśliwski PZL P.11c",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 444,
+    "year": 2003,
+    "number": "10-11-12",
+    "title": "Samolot myśliwsko-bombowy Su-22 Fitter",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 445,
+    "year": 2004,
+    "number": "1-2",
+    "title": "Kliper herbaciany Cutty Sark",
+    "scale": "1:150",
+    "owned": false
+  },
+  {
+    "id": 446,
+    "year": 2004,
+    "number": "3",
+    "title": "Okręt Jego Królewskiej Mości Wodnik",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 447,
+    "year": 2004,
+    "number": "4-5",
+    "title": "Samolot bombowy PZL-37 Łoś",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 448,
+    "year": 2004,
+    "number": "6",
+    "title": "Samolot myśliwski Sopwith F.1 Camel",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 449,
+    "year": 2004,
+    "number": "7-8-9",
+    "title": "Samolot myśliwski Grumman F-14 Tomcat",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 450,
+    "year": 2004,
+    "number": "10-11-12",
+    "title": "Lotniskowiec USS Essex",
+    "scale": "1:300",
+    "owned": false
+  },
+  {
+    "id": 451,
+    "year": 2005,
+    "number": "1-2",
+    "title": "Czołg średni T34/85 Rudy",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 452,
+    "year": 2005,
+    "number": "3",
+    "title": "Samolot myśliwski Supermarine Spitfire Mk VB",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 453,
+    "year": 2005,
+    "number": "4-5-6",
+    "title": "Pancernik Bismarck",
+    "scale": "1:300",
+    "owned": false
+  },
+  {
+    "id": 454,
+    "year": 2005,
+    "number": "7-8",
+    "title": "Piotr z Gdańska. Gdańska Karaka z XV w.",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 455,
+    "year": 2005,
+    "number": "9",
+    "title": "Samolot bombowy PZL-23 Karaś",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 456,
+    "year": 2005,
+    "number": "10-11-12",
+    "title": "Żaglowiec Victory",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 457,
+    "year": 2006,
+    "number": "1-2",
+    "title": "Czołg średni Chi-He",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 458,
+    "year": 2006,
+    "number": "3",
+    "title": "Samolot myśliwski MiG-29",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 459,
+    "year": 2006,
+    "number": "4-5",
+    "title": "Żaglowiec z XVIII wieku HMS Bounty",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 460,
+    "year": 2006,
+    "number": "6",
+    "title": "Samolot szturmowy A-10 Thunderbolt II",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 461,
+    "year": 2006,
+    "number": "7-8-9",
+    "title": "Pancernik HIEI",
+    "scale": "1:300",
+    "owned": false
+  },
+  {
+    "id": 462,
+    "year": 2006,
+    "number": "10-11-12",
+    "title": "Czołg średni PT-91 Twardy",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 463,
+    "year": 2007,
+    "number": "1-2",
+    "title": "Samolot wielozadaniowy F-16C BLOCK 52+",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 464,
+    "year": 2007,
+    "number": "3",
+    "title": "Samolot myśliwski Messerschmitt Bf 109G-2/trop",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 465,
+    "year": 2007,
+    "number": "4-5-6",
+    "title": "Samolot wielozadaniowy PZL M-28B BRYZA",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 466,
+    "year": 2007,
+    "number": "7-8-9",
+    "title": "Żaglowiec Dar Młodzieży",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 467,
+    "year": 2007,
+    "number": "10-11-12",
+    "title": "Krążownik Liniowy HMS Hood",
+    "scale": "1:300",
+    "owned": false
+  },
+  {
+    "id": 468,
+    "year": 2008,
+    "number": "1-2-3",
+    "title": "Samolot myśliwsko-bombowy Messerschmitt bf 110 c-1",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 469,
+    "year": 2008,
+    "number": "4-5-6",
+    "title": "Transatlantyk MS Batory",
+    "scale": "1:300",
+    "owned": false
+  },
+  {
+    "id": 470,
+    "year": 2008,
+    "number": "7-8-9",
+    "title": "Okręt podwodny ORP Orzeł",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 471,
+    "year": 2008,
+    "number": "10-11-12",
+    "title": "Śmigłowiec Westland Sea King Mk 41",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 472,
+    "year": 2009,
+    "number": "1-2-3",
+    "title": "Statek Franciszka Drake’a Golden Hind",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 473,
+    "year": 2009,
+    "number": "4-5-6",
+    "title": "Samolot bombowy Heinkel He-111 H6",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 474,
+    "year": 2009,
+    "number": "7-8-9",
+    "title": "Pancernik HMS Dreadnought",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 475,
+    "year": 2009,
+    "number": "10-11-12",
+    "title": "Żaglowiec z XVII wieku Mayflower",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 476,
+    "year": 2010,
+    "number": "1-2-3",
+    "title": "Samolot De Havilland Mosquito Mk. II NF",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 477,
+    "year": 2010,
+    "number": "4-5-6",
+    "title": "Samolot bombowy Handley Page Halifax B Mk. II",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 478,
+    "year": 2010,
+    "number": "7-8-9",
+    "title": "Galeona Zygmunta Augusta Smok",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 479,
+    "year": 2010,
+    "number": "10-11-12",
+    "title": "RMS Titanic cześć I",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 480,
+    "year": 2011,
+    "number": "1-2-3",
+    "title": "RMS Titanic cześć II",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 481,
+    "year": 2011,
+    "number": "4-5-6",
+    "title": "Samolot bombowy Dornier Do-17 Z-1 Mo",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 482,
+    "year": 2011,
+    "number": "7-8-9",
+    "title": "Lotniskowiec HMS „Ark Royal”",
+    "scale": "1:300",
+    "owned": false
+  },
+  {
+    "id": 483,
+    "year": 2011,
+    "number": "10-11-12",
+    "title": "Pancernik Bismarck",
+    "scale": "1:300",
+    "owned": false
+  },
+  {
+    "id": 484,
+    "year": 2012,
+    "number": "1-2-3",
+    "title": "Samolot bombowy B-17G",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 485,
+    "year": 2012,
+    "number": "4-5-6",
+    "title": "Żaglowiec HMS Victory",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 486,
+    "year": 2012,
+    "number": "7-8-9",
+    "title": "Samoloty Jak-9M i Fw 190 A-8",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 487,
+    "year": 2012,
+    "number": "10-11-12",
+    "title": "Amerykański bombowiec B-25C Mitchel Mk II",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 488,
+    "year": 2013,
+    "number": "1-2-3",
+    "title": "Okręt kapitana Jamesa Cooka HMS Endeavour",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 489,
+    "year": 2013,
+    "number": "4-5-6",
+    "title": "Samolot myśliwski Messerschmitt Me 109G-2/trop",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 490,
+    "year": 2013,
+    "number": "7-8-9",
+    "title": "Samolot myśliwski MiG-29",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 491,
+    "year": 2013,
+    "number": "10-11-12",
+    "title": "Angielski samolot myśliwski Spitfire Mk Vb",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 492,
+    "year": 2014,
+    "number": "1-2-3",
+    "title": "Samolot myśliwski F-14A Tomcat",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 493,
+    "year": 2014,
+    "number": "4-5-6",
+    "title": "Samolot myśliwski PZL P.11c",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 494,
+    "year": 2014,
+    "number": "7-8-9",
+    "title": "Szwedzki okręt wojenny Vasa",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 495,
+    "year": 2014,
+    "number": "10-11-12",
+    "title": "Amerykański lotniskowiec USS \"Essex\"",
+    "scale": "1:300",
+    "owned": false
+  },
+  {
+    "id": 496,
+    "year": 2015,
+    "number": "1-2-3",
+    "title": "Samolot bombowo-rozpoznawczy PZL-23B \"Karaś\"",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 497,
+    "year": 2015,
+    "number": "4-5-6",
+    "title": "Okręt Jego Królewskiej Mości \"Wodnik\"",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 498,
+    "year": 2015,
+    "number": "7-8-9",
+    "title": "Krążownik Liniowy HMS Hood",
+    "scale": "1:300",
+    "owned": false
+  },
+  {
+    "id": 499,
+    "year": 2015,
+    "number": "10-11-12",
+    "title": "Wodnosamolot CANT Z-506 B „Airone”",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 500,
+    "year": 2016,
+    "number": "1-2-3",
+    "title": "Niemiecki pancernik Bismarck",
+    "scale": "1:300",
+    "owned": false
+  },
+  {
+    "id": 501,
+    "year": 2016,
+    "number": "4-5-6",
+    "title": "Polski szkolny żaglowiec STS „Lwów”",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 502,
+    "year": 2016,
+    "number": "7-8-9",
+    "title": "Czołg średni T34/85 Rudy",
+    "scale": "1:25",
+    "owned": false
+  },
+  {
+    "id": 503,
+    "year": 2016,
+    "number": "10-11-12",
+    "title": "Niszczyciel ORP „Grom”",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 504,
+    "year": 2022,
+    "number": "1-2-3",
+    "title": "Samolot bombowy Dornier Do 17 Z-1",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 505,
+    "year": 2022,
+    "number": "4-5-6",
+    "title": "Niszczyciel ORP „Burza”",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 506,
+    "year": 2022,
+    "number": "7-8-9",
+    "title": "„Dar Pomorza”",
+    "scale": "1:200",
+    "owned": false
+  },
+  {
+    "id": 507,
+    "year": 2022,
+    "number": "10-11-12",
+    "title": "Japoński pancernik klasy Kongo IJN „Hiei”",
+    "scale": "1:300",
+    "owned": false
+  },
+  {
+    "id": 508,
+    "year": 2023,
+    "number": "1-2-3",
+    "title": "Żaglowiec z XVII wieku Mayflower",
+    "scale": "1:100",
+    "owned": false
+  },
+  {
+    "id": 509,
+    "year": 2023,
+    "number": "4-5-6",
+    "title": "Włoski pancernik „Vittorio Veneto”",
+    "scale": "1:300",
+    "owned": false
+  },
+  {
+    "id": 510,
+    "year": 2023,
+    "number": "7-8-9",
+    "title": "Samolot myśliwski MiG-29",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 511,
+    "year": 2023,
+    "number": "10-11-12",
+    "title": "De Havilland Mosquito Mk. VI FB",
+    "scale": "1:33",
+    "owned": false
+  },
+  {
+    "id": 512,
+    "year": 2024,
+    "number": "1-2-3",
+    "title": "Kliper \"Cutty Sark\"",
+    "scale": "1:150",
+    "owned": false
+  },
+  {
+    "id": 513,
+    "year": 2024,
+    "number": "4-5-6",
+    "title": "Brytyjski pancernik HMS \"Dreadnougt\"",
+    "scale": "1:200",
+    "owned": true
+  }
 ]
