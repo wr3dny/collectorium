@@ -68,5 +68,33 @@
         "year": 2024,
         "number": 10369,
         "series": "Icons"
+    },
+    {
+        "id": 11,
+        "title": "Elsa and Olaf's Tea Party",
+        "year": 2020,
+        "number": 10920,
+        "series": "Duplo"
+    },
+    {
+        "id": 12,
+        "title": "Family House on Wheels",
+        "year": 2023,
+        "number": 10986,
+        "series": "Duplo"
+    },
+    {
+        "id": 13,
+        "title": "Police Bike",
+        "year": 2011,
+        "number": 5679,
+        "series": "Duplo"
+    },
+    {
+        "id": 14,
+        "title": "Number Train",
+        "year": 2013,
+        "number": 10558,
+        "series": "Duplo"
     }
 ]
