@@ -4233,5 +4233,31 @@
         "numberInSubSeries": 8,
         "format": "paperback",
         "language": "english"
+    },
+    {
+        "id": 329,
+        "firstName": "George",
+        "lastName": "Mann",
+        "title": "Helion Rain",
+        "originalTitle": null,
+        "worldHero": "Warhammer 40.000",
+        "numberInSeries": null,
+        "subSeries": null,
+        "numberInSubSeries": null,
+        "format": "audio",
+        "language": "english"
+    },
+    {
+        "id": 330,
+        "firstName": "Guy",
+        "lastName": "Haley",
+        "title": "Hunter's Moon",
+        "originalTitle": null,
+        "worldHero": "Warhammer 40.000",
+        "numberInSeries": null,
+        "subSeries": "Horus Heresy",
+        "numberInSubSeries": null,
+        "format": "audio",
+        "language": "english"
     }
 ]
