@@ -4259,5 +4259,44 @@
         "numberInSubSeries": null,
         "format": "audio",
         "language": "english"
+    },
+    {
+        "id": 331,
+        "firstName": "Brian",
+        "lastName": "McClellan",
+        "title": "Grzechy Imperium",
+        "originalTitle": "Sins of Empire",
+        "worldHero": "Sins of Empire",
+        "numberInSeries": null,
+        "subSeries": "Gods of Blood and Powder",
+        "numberInSubSeries": 1,
+        "format": "paperback",
+        "language": "polish"
+    },
+    {
+        "id": 332,
+        "firstName": "Bian",
+        "lastName": "McClellan",
+        "title": "Gniew Imperium",
+        "originalTitle": "Wrath of Empire",
+        "worldHero": null,
+        "numberInSeries": null,
+        "subSeries": "Gods of Blood and Powder",
+        "numberInSubSeries": 2,
+        "format": "paperback",
+        "language": "polish"
+    },
+    {
+        "id": 333,
+        "firstName": "Brian",
+        "lastName": "McClellan",
+        "title": "Krew Imperium",
+        "originalTitle": "Blood of Empire",
+        "worldHero": null,
+        "numberInSeries": null,
+        "subSeries": "Gods of Blood and Powder",
+        "numberInSubSeries": 3,
+        "format": "paperback",
+        "language": "polish"
     }
 ]
