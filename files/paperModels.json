@@ -1852,7 +1852,7 @@
         "year": 1978,
         "number": "10",
         "title": "Samobieżne działo przeciwlotnicze ZSU - 23x4",
-        "scale": null,
+        "scale": "bez skali",
         "owned": true
     },
     {
@@ -2181,7 +2181,7 @@
         "number": "1",
         "title": "Samolot turystyczny RWD-13",
         "scale": "1:25",
-        "owned": false
+        "owned": true
     },
     {
         "id": 274,
@@ -2189,7 +2189,7 @@
         "number": "2",
         "title": "Samolot szturmowy Iljuszyn Ił-2 i sylwetkowe Ił-2 i Ił-10",
         "scale": "1:33",
-        "owned": false
+        "owned": true
     },
     {
         "id": 275,
@@ -2197,7 +2197,7 @@
         "number": "3",
         "title": "Trałowiec Kormoran",
         "scale": "1:100",
-        "owned": false
+        "owned": true
     },
     {
         "id": 276,
@@ -2205,7 +2205,7 @@
         "number": "4",
         "title": "Okręt podwodny K-21",
         "scale": "1:150",
-        "owned": false
+        "owned": true
     },
     {
         "id": 277,
@@ -2213,7 +2213,7 @@
         "number": "5",
         "title": "Lekkie działo samobieżne Su-76",
         "scale": "1:25",
-        "owned": false
+        "owned": true
     },
     {
         "id": 278,
@@ -2229,7 +2229,7 @@
         "number": "7",
         "title": "Samolot myśliwski Ławoczkin Ła-7",
         "scale": "1:33",
-        "owned": false
+        "owned": true
     },
     {
         "id": 280,
@@ -2253,7 +2253,7 @@
         "number": "10",
         "title": "Średnie działo pancerne SU-100",
         "scale": "1:25",
-        "owned": false
+        "owned": true
     },
     {
         "id": 283,
@@ -2269,7 +2269,7 @@
         "number": "1-2",
         "title": "Pancernik Potiomkin",
         "scale": "1:200",
-        "owned": false
+        "owned": true
     },
     {
         "id": 285,
@@ -2357,7 +2357,7 @@
         "number": "3",
         "title": "Samolot Suchoj Su-2",
         "scale": "1:33",
-        "owned": false
+        "owned": true
     },
     {
         "id": 296,
@@ -2413,7 +2413,7 @@
         "number": "11-12",
         "title": "Czołg średni T-72",
         "scale": "1:25",
-        "owned": false
+        "owned": true
     },
     {
         "id": 303,
@@ -2421,7 +2421,7 @@
         "number": "1-2",
         "title": "Pancernik King George V",
         "scale": "1:300",
-        "owned": false
+        "owned": true
     },
     {
         "id": 304,
@@ -2429,7 +2429,7 @@
         "number": "3-4",
         "title": "Żaglowiec Victory",
         "scale": "1:200",
-        "owned": false
+        "owned": true
     },
     {
         "id": 305,
@@ -2549,7 +2549,7 @@
         "number": "10-11",
         "title": "Samolot myśliwski Lockheed P-38 Lightning",
         "scale": "1:33",
-        "owned": false
+        "owned": true
     },
     {
         "id": 320,
@@ -2589,7 +2589,7 @@
         "number": "6",
         "title": "Samolot szkolno-treningowy North American Harvard Mk. II B",
         "scale": "1:33",
-        "owned": false
+        "owned": true
     },
     {
         "id": 325,
@@ -2597,7 +2597,7 @@
         "number": "7",
         "title": "Samolot akrobacyjny RWD-10 i szybowiec Czajka-bis",
         "scale": "1:25",
-        "owned": false
+        "owned": true
     },
     {
         "id": 326,
@@ -2605,7 +2605,7 @@
         "number": "8-9",
         "title": "Duży ścigacz okrętów podwodnych typu Kronsztad",
         "scale": "1:100",
-        "owned": false
+        "owned": true
     },
     {
         "id": 327,
@@ -2621,7 +2621,7 @@
         "number": "11-12",
         "title": "Samolot bombowy Consolidated B-24 Liberator",
         "scale": "1:50",
-        "owned": false
+        "owned": true
     },
     {
         "id": 329,
@@ -2653,7 +2653,7 @@
         "number": "1-2",
         "title": "Samolot myśliwsko-bombowy Suchoj Su-22",
         "scale": "1:33",
-        "owned": false
+        "owned": true
     },
     {
         "id": 333,
@@ -2669,7 +2669,7 @@
         "number": "4",
         "title": "Samolot myśliwski Grumman F6F3 Hellcat",
         "scale": "1:33",
-        "owned": false
+        "owned": true
     },
     {
         "id": 335,
@@ -2725,7 +2725,7 @@
         "number": "2",
         "title": "Samolot Douglas TBD1 Devastator",
         "scale": "1:33",
-        "owned": false
+        "owned": true
     },
     {
         "id": 342,
@@ -2837,7 +2837,7 @@
         "number": "8-9",
         "title": "Żaglowiec Santa Maria",
         "scale": "1:100",
-        "owned": false
+        "owned": true
     },
     {
         "id": 356,
@@ -2933,7 +2933,7 @@
         "number": "1-2",
         "title": "Samolot bombowy North American B-25 D Mitchell",
         "scale": "1:33",
-        "owned": false
+        "owned": true
     },
     {
         "id": 368,
@@ -2941,7 +2941,7 @@
         "number": "3",
         "title": "Piotr z Gdańska. Gdańska Karaka z XV w.",
         "scale": "1:200",
-        "owned": false
+        "owned": true
     },
     {
         "id": 369,
@@ -3117,7 +3117,7 @@
         "number": "12",
         "title": "Samoloty sportowe RWD-4, RWD-5 Bis",
         "scale": "1:33",
-        "owned": false
+        "owned": true
     },
     {
         "id": 391,
@@ -3229,7 +3229,7 @@
         "number": "8-9",
         "title": "Samolot rozpoznawczy Focke-Wulf FW 189 UHU",
         "scale": "1:33",
-        "owned": false
+        "owned": true
     },
     {
         "id": 405,
