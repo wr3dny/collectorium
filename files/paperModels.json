@@ -2221,7 +2221,7 @@
         "number": "6",
         "title": "Niszczyciel eskortowy ORP Ślązak",
         "scale": "1:250",
-        "owned": false
+        "owned": true
     },
     {
         "id": 279,
@@ -2261,7 +2261,7 @@
         "number": "11-12",
         "title": "Włoski pancernik Vittorio Veneto",
         "scale": "1:300",
-        "owned": false
+        "owned": true
     },
     {
         "id": 284,
