@@ -4415,5 +4415,18 @@
         "numberInSubSeries": 3,
         "format": "paperback",
         "language": "polish"
+    },
+    {
+        "id": 343,
+        "firstName": "Jacek",
+        "lastName": "Ostrowski",
+        "title": "Opowieść Wigilijna",
+        "originalTitle": null,
+        "worldHero": "Zuzanna Lewandowska",
+        "numberInSeries": 14,
+        "subSeries": null,
+        "numberInSubSeries": null,
+        "format": "paperback",
+        "language": "polish"
     }
 ]

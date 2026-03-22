@@ -96,5 +96,12 @@
         "year": 2013,
         "number": 10558,
         "series": "Duplo"
+    },
+    {
+        "id": 15,
+        "title": "Police Bike",
+        "year": 2011,
+        "number": 5679,
+        "series": "Duplo"
     }
 ]
