@@ -4428,5 +4428,18 @@
         "numberInSubSeries": null,
         "format": "paperback",
         "language": "polish"
+    },
+    {
+        "id": 344,
+        "firstName": "Dan",
+        "lastName": "Abnett",
+        "title": "The Founding: A Gaunt's Ghosts Omnibus",
+        "originalTitle": null,
+        "worldHero": "Warhammer 40k",
+        "numberInSeries": null,
+        "subSeries": "Gaunt's Ghosts",
+        "numberInSubSeries": null,
+        "format": "paperback",
+        "language": "english"
     }
 ]
