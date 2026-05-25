@@ -2165,7 +2165,7 @@
         "number": "8",
         "title": "Lekki krążownik ORP Conrad",
         "scale": "1:200",
-        "owned": false
+        "owned": true
     },
     {
         "id": 272,

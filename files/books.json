@@ -4441,5 +4441,57 @@
         "numberInSubSeries": null,
         "format": "paperback",
         "language": "english"
+    },
+    {
+        "id": 345,
+        "firstName": "Gav",
+        "lastName": "Thorpe",
+        "title": "Angels of Darkness",
+        "originalTitle": null,
+        "worldHero": "Warhammer 40.000",
+        "numberInSeries": null,
+        "subSeries": null,
+        "numberInSubSeries": null,
+        "format": "eBook",
+        "language": "english"
+    },
+    {
+        "id": 346,
+        "firstName": "Adrian",
+        "lastName": "Tchaikovsky",
+        "title": "The Air War",
+        "originalTitle": null,
+        "worldHero": null,
+        "numberInSeries": null,
+        "subSeries": "Shadows of the Apt",
+        "numberInSubSeries": 8,
+        "format": "eBook",
+        "language": "english"
+    },
+    {
+        "id": 347,
+        "firstName": "John",
+        "lastName": "French",
+        "title": "Ahriman: Exile",
+        "originalTitle": null,
+        "worldHero": "Warhammer 40.000",
+        "numberInSeries": null,
+        "subSeries": null,
+        "numberInSubSeries": null,
+        "format": "eBook",
+        "language": "english"
+    },
+    {
+        "id": 348,
+        "firstName": "David Annandale",
+        "lastName": "Annandale",
+        "title": "A Dynasty of Monsters",
+        "originalTitle": null,
+        "worldHero": "Warhammer Age of Sigmar",
+        "numberInSeries": null,
+        "subSeries": null,
+        "numberInSubSeries": null,
+        "format": "eBook",
+        "language": "english"
     }
 ]

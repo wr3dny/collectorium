@@ -33,7 +33,6 @@ def list_files() -> None:
         print(f"{i}. {fd.label}")
 
 
-
 def _fmt(value) -> str:
     return "" if value is None else str(value)
 
@@ -146,6 +145,7 @@ def delete_record(file_def: FileDef, record_id: int | None) -> bool:
     save_file(FILES_DIR, file_def, records)
     print("Record deleted.\n")
     return True
+
 
 def _file_menu(file_def: FileDef) -> None:
         while True:
