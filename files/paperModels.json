@@ -2773,7 +2773,7 @@
         "number": "9",
         "title": "Samolot myśliwski Messerschmitt Me 262 Schwalbe",
         "scale": "1:33",
-        "owned": false
+        "owned": true
     },
     {
         "id": 348,
@@ -2989,7 +2989,7 @@
         "number": "12",
         "title": "Samolot myśliwski Supermarine Spitfire Mk. VIII",
         "scale": "1:33",
-        "owned": false
+        "owned": true
     },
     {
         "id": 375,
